@@ -49,7 +49,7 @@
             It is read on the <date when-custom="#Pent1Sun">first Sunday</date>. This is the first reading.
           </note>
         </div>
-        <div type="rubric" corresp="Ro8:3">
+        <div type="rubric" corresp="Ro6:3">
           <pb source="#S155" n="44v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fjq16dv05/full/1500,/0/default.jpg"/>
           <head xml:lang="ar" rend="red">
             <l>تقرا في الاحد الثاني</l>
@@ -58,7 +58,7 @@
             It is read on the <date when-custom="#Pent2Sun">second Sunday</date>.
           </note>
         </div>
-        <div type="rubric" corresp="Ro8:3">
+        <div type="rubric" corresp="Ro8:2">
           <pb source="#S155" n="46v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F4357gf3p/full/1500,/0/default.jpg"/>
           <head xml:lang="ar" rend="red">
             <l>تقرا في الاحد الثالث</l>
@@ -67,6 +67,35 @@
             It is read on the <date when-custom="#Pent3Sun">third Sunday</date>.
           </note>
         </div>
+        <div type="rubric" corresp="Ro8:28">
+          <pb source="#S155" n="47v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F7x46h90v/full/1500,/0/default.jpg"/>
+          <head xml:lang="ar" rend="red">
+            <l>
+              <w>في</w>
+              <hi rend="strikethrough">لا</hi>
+              <w>عياد</w>
+              <w>الشهدا</w>
+            </l>
+          </head>
+          <note type="translation" xml:lang="en">
+            On the <date when-custom="#Martyrs">Feasts of the Martyrs</date>.
+          </note>
+        </div>
+        <div type="rubric" corresp="Ro9:30">
+          <pb source="#S155" n="49r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fk316pd3k/full/1500,/0/default.jpg"/>
+          <head xml:lang="ar" rend="red">
+            <l>
+              <w>تقرا</w>
+              <w>في</w>
+              <w>الاحد</w>
+              <w>الرابع</w>
+            </l>
+          </head>
+          <note type="translation" xml:lang="en">
+            It is read on the <date when-custom="#Pent4Sun">fourth Sunday</date>.
+          </note>
+        </div>
+
       </div><!-- Romans -->
     </body>
   </text>
