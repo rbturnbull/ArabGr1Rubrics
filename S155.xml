@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,15 +22,16 @@
             <summary>Pauline Epistles</summary>
           </msContents>
         </msDesc>
+        <xi:include href="include/dates.xml"/>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <body>
       <div xml:id="Romans" n="B05" type="Epistle">
-        <pb source="#S155" n="39r" facs="http://localhost:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F2t41720x/full/1500,/0/default.jpg" />
-        <div type="rubric" corresp="B06K1V1">
-          <head xml:lang="ar">
+        <div type="rubric" corresp="Ro1:1">
+          <pb source="#S155" n="39r" facs="http://localhost:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F2t41720x/full/1500,/0/default.jpg" />
+          <head xml:lang="ar" rend="red decorated">
             <l>نبدا نكتب مصحف بولس الرسول الصحيفه الولا</l>
             <l>كتبها الي اهل روميه باسم ربنا المسيح</l>
           </head>
@@ -39,7 +40,16 @@
             which he wrote to the people of Rome. In the name of our Lord Christ.
           </note>
         </div>
-      </div>
+        <div type="rubric" corresp="Ro5:1">
+          <pb source="#S155" n="43v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F4k04d71t/full/1500,/0/default.jpg" />
+          <head xml:lang="ar" rend="red">
+            <l>تقرا في الاحد الاول هذه اول القرايات</l>
+          </head>
+          <note type="translation" xml:lang="en">
+            It is read on the <date when-custom="#P1Sun">first Sunday</date>. This is the first reading.
+          </note>
+        </div>
+      </div><!-- Romans -->
     </body>
   </text>
 </TEI>

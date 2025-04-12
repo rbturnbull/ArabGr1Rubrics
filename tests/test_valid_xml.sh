@@ -13,7 +13,7 @@ valid=0
 SCHEMA="$TEST_DIR/tei_all.rng"
 
 # Find all XML files and count total for the progress bar
-file_list=($(find "$BASE_DIR" -path "$BASE_DIR/tei/include" -prune -o -name '*.xml' -print))
+file_list=($(find "$BASE_DIR" -path "$BASE_DIR/include" -prune -o -name '*.xml' -print))
 total_files=${#file_list[@]}
 current=0
 
