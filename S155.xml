@@ -84,18 +84,31 @@
         <div type="rubric" corresp="Ro9:30">
           <pb source="#S155" n="49r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fk316pd3k/full/1500,/0/default.jpg"/>
           <head xml:lang="ar" rend="red">
-            <l>
-              <w>تقرا</w>
-              <w>في</w>
-              <w>الاحد</w>
-              <w>الرابع</w>
-            </l>
+            <l>تقرا في الاحد الرابع</l>
           </head>
           <note type="translation" xml:lang="en">
             It is read on the <date when-custom="#Pent4Sun">fourth Sunday</date>.
           </note>
         </div>
-
+        <div type="rubric" corresp="Ro12:1">
+          <pb source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
+          <head xml:lang="ar" rend="red">
+            <l>تقرا في حد الصوم الثاني</l>
+          </head>
+          <note type="translation" xml:lang="en">
+            It is read on the <date when-custom="#Lent2Sun">second Sunday of Lent</date>.
+          </note>
+        </div>
+        <div type="rubric" corresp="Ro12:6">
+          <pb source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
+          <head xml:lang="ar" rend="red">
+            <l>تقرا</l>
+            <l>في الاحد الثالث من الصوب</l>
+          </head>
+          <note type="translation" xml:lang="en">
+            It is read on the <date when-custom="#Lent3Sun">third Sunday of Lent</date>.
+          </note>
+        </div>
       </div><!-- Romans -->
     </body>
   </text>
