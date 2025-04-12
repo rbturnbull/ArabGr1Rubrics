@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list type="dates">
-  <item xml:id="P1Sun">First Sunday after Pentecost</item>
+  <item xml:id="Pent1Sun">First Sunday after Pentecost</item>
+  <item xml:id="Pent2Sun">Second Sunday after Pentecost</item>
+  <item xml:id="Pent3Sun">Third Sunday after Pentecost</item>
+  <item xml:id="Pent4Sun">Fourth Sunday after Pentecost</item>
 </list>

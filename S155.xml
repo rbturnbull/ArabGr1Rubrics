@@ -46,7 +46,16 @@
             <l>تقرا في الاحد الاول هذه اول القرايات</l>
           </head>
           <note type="translation" xml:lang="en">
-            It is read on the <date when-custom="#P1Sun">first Sunday</date>. This is the first reading.
+            It is read on the <date when-custom="#Pent1Sun">first Sunday</date>. This is the first reading.
+          </note>
+        </div>
+        <div type="rubric" corresp="Ro8:3">
+          <pb source="#S155" n="44v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fjq16dv05/full/1500,/0/default.jpg"/>
+          <head xml:lang="ar" rend="red">
+            <l>تقرا في الاحد الثاني</l>
+          </head>
+          <note type="translation" xml:lang="en">
+            It is read on the <date when-custom="#Pent2Sun">second Sunday</date>.
           </note>
         </div>
         <div type="rubric" corresp="Ro8:3">
@@ -55,7 +64,7 @@
             <l>تقرا في الاحد الثالث</l>
           </head>
           <note type="translation" xml:lang="en">
-            It is read on the <date when-custom="#P3Sun">third Sunday</date>.
+            It is read on the <date when-custom="#Pent3Sun">third Sunday</date>.
           </note>
         </div>
       </div><!-- Romans -->
