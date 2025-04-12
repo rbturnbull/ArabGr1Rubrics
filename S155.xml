@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectionary Rubrics in Sinai ar. 155 and London, British Library, Or. 8612</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished manuscript transcription</p>
+        <date>2025</date>
+        <availability>
+          <p>This is an open access work licensed under a Creative Commons Attribution 4.0 International license.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="S155">
+          <msIdentifier>
+            <settlement>St. Catherine's Monastery</settlement>
+            <repository>Sinai</repository>
+            <idno>ar. 155</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Pauline Epistles</summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="ar">
+      <rubric type="heading">
+        <l>نبدا نكتب مصحف بولس الرسول الصحيفه الولا</l>
+        <l>كتبها الي اهل روميه باسم ربنا المسيح</l>
+        <note type="translation" xml:lang="en">
+          We begin to write the Book of Paul the Apostle, the first Epistle,
+          which he wrote to the people of Rome. In the name of our Lord Christ.
+        </note>
+        <ref n="B06K1V1">Rom 1:1</ref>
+        <locus source="#S155" facs="http://localhost:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F2t41720x/full/1500,/0/default.jpg">39r</locus>
+      </rubric>
+    </body>
+  </text>
+</TEI>
