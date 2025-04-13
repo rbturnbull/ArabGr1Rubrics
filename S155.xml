@@ -17,7 +17,16 @@
         <msDesc xml:id="S155">
           <msIdentifier>
             <settlement>St. Catherine's Monastery</settlement>
-            <idno>Sinai ar. 155</idno>
+            <idno>Arabic 155</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Pauline Epistles</summary>
+          </msContents>
+        </msDesc>
+        <msDesc xml:id="BLOr8612">
+          <msIdentifier>
+            <settlement>London, British Library</settlement>
+            <idno>Or. 8612</idno>
           </msIdentifier>
           <msContents>
             <summary>Pauline Epistles</summary>
@@ -423,8 +432,93 @@
             </choice>
           </head>
         </div>
-
       </div>      <!-- Galatians -->
+      <div xml:id="Ephesians" type="Epistle">
+        <div type="rubric" corresp="Eph1:1">
+          <anchor source="#S155" n="93v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fgt13jj1q/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated headpiece">
+            <choice>
+              <orig xml:lang="ar">
+                <l>رساله بولس الرسول المقدس الى اهل افسس</l>
+                <l>تقرا في حد البايا</l>                
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Epistle of St Paul the Apostle to the people of Ephesus.
+                Read on <date when-custom="#PalmSunday">Palm Sunday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph1:17">
+          <anchor source="#S155" n="94r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fj131sr1n/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في الحد السابع</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#Pent7Sun">seventh Sunday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph2:4">
+          <anchor source="#S155" n="94v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fvs46502x/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا</l>
+                <l>في الاحد الثامن</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#Pent8Sun">eighth Sunday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph2:11">
+          <anchor source="#BLOr8612" n="1r"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا</l>
+                <l>للحد التاسع</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read for <date when-custom="#Pent8Sun">the eighth</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph3:14">
+          <anchor source="#BLOr8612" n="2r"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>للحد العاشر</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                For <date when-custom="#Pent10Sunday">the tenth</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph4:1">
+          <anchor source="#BLOr8612" n="2r"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في يوم خامس القلند</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Epiphany5">the fifth day of Ephiphany</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+
+        
+      </div>      <!-- Ephesians -->
     </body>
   </text>
 </TEI>
@@ -434,7 +528,7 @@
 
 <!--
         <div type="rubric" corresp="ADD_HERE">
-          <anchor source="#S155" n="ADD_HERE" facs="ADD_HERE"/>
+          <anchor source="#BLOr8612" n="ADD_HERE"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">

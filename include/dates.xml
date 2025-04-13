@@ -62,9 +62,14 @@
   <category xml:id="Cross">
     <catDesc>Cross</catDesc>
   </category>    
-
-
+  <category xml:id="PalmSunday">
+    <catDesc>Palm Sunday</catDesc>
+  </category>    
+  <category xml:id="Epiphany5">
+    <catDesc>Fifth day of Epiphany</catDesc>
+  </category>    
 </taxonomy>
+
 
 <!-- 
   <category xml:id="ADD_HERE">
