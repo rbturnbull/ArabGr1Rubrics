@@ -153,13 +153,17 @@
         </div>
         <div type="rubric" corresp="Ro12:6">
           <anchor source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
-          <head xml:lang="ar" rend="red cross-decorated">
-            <l>تقرا</l>
-            <l>في الاحد الثالث من الصوم</l>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا</l>
+                <l>في الاحد الثالث من الصوم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                It is read on the <date when-custom="#Lent3Sun">third Sunday of Lent</date>.
+              </reg>
+            </choice>
           </head>
-          <note type="translation" xml:lang="en">
-            It is read on the <date when-custom="#Lent3Sun">third Sunday of Lent</date>.
-          </note>
         </div>
         <div type="rubric" corresp="Ro12:16b">
           <anchor source="#S155" n="52v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Frm947g3m/full/1500,/0/default.jpg"/>
@@ -193,11 +197,15 @@
 <!--
         <div type="rubric" corresp="">
           <anchor source="#S155" n="" facs=""/>
-          <head xml:lang="ar" rend="red cross-decorated">
-            <l></l>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l></l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                <date when-custom="#"></date>.
+              </reg>
+            </choice>
           </head>
-          <note type="translation" xml:lang="en">
-            <date when-custom="#"></date>.
-          </note>
         </div>
 -->
