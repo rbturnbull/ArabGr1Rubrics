@@ -22,9 +22,23 @@
             <summary>Pauline Epistles</summary>
           </msContents>
         </msDesc>
-        <xi:include href="include/dates.xml"/>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="cross-decorated" scheme="css">
+          Indicates rubric headings surrounded by ornamental crosses in the manuscript.
+        </rendition>
+      </tagsDecl>
+      <classDecl>
+        <taxonomy xml:id="usage">
+          <category xml:id="translation">
+            <catDesc>Used in @type on &lt;reg&gt; to indicate that it contains a translation of the original text.</catDesc>
+          </category>
+        </taxonomy>
+        <xi:include href="include/dates.xml"/>
+      </classDecl>
+    </encodingDesc>
   </teiHeader>
   <text>
     <body>
@@ -101,15 +115,47 @@
         </div>
         <div type="rubric" corresp="Ro12:6">
           <pb source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
-          <head xml:lang="ar" rend="red">
+          <head xml:lang="ar" rend="red cross-decorated">
             <l>تقرا</l>
-            <l>في الاحد الثالث من الصوب</l>
+            <l>في الاحد الثالث من الصوم</l>
           </head>
           <note type="translation" xml:lang="en">
             It is read on the <date when-custom="#Lent3Sun">third Sunday of Lent</date>.
           </note>
         </div>
+        <div type="rubric" corresp="Ro12:16b">
+          <pb source="#S155" n="52v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Frm947g3m/full/1500,/0/default.jpg"/>
+          <head xml:lang="ar" rend="red cross-decorated">
+            <l>تقرا في حد الرابع من الصوم</l>
+          </head>
+          <note type="translation" xml:lang="en">
+            It is read on the <date when-custom="#Lent4Sun">fourth Sunday of Lent</date>.
+          </note>
+          <ab type="biblical" corresp="Ro12:16b" rend="black">
+            <choice>
+              <orig xml:lang="ar">
+                <l>لا تكونوا</l>
+                <l>حكما في انفسكم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Do not be wise in yourselves.
+              </reg>
+            </choice>
+          </ab>
+        </div>
       </div><!-- Romans -->
     </body>
   </text>
 </TEI>
+
+<!--
+        <div type="rubric" corresp="">
+          <pb source="#S155" n="" facs=""/>
+          <head xml:lang="ar" rend="red cross-decorated">
+            <l></l>
+          </head>
+          <note type="translation" xml:lang="en">
+            <date when-custom="#"></date>.
+          </note>
+        </div>
+-->

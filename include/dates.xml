@@ -1,11 +1,29 @@
-<list type="dates">
-  <item xml:id="Pent1Sun">First Sunday after Pentecost</item>
-  <item xml:id="Pent2Sun">Second Sunday after Pentecost</item>
-  <item xml:id="Pent3Sun">Third Sunday after Pentecost</item>
-  <item xml:id="Pent4Sun">Fourth Sunday after Pentecost</item>
-  <item xml:id="Pent5Sun">Fifth Sunday after Pentecost</item>
-  <item xml:id="Pent6Sun">Sixth Sunday after Pentecost</item>
-  <item xml:id="Pent7Sun">Seventh Sunday after Pentecost</item>
-  <item xml:id="Lent2Sun">Second Sunday of Lent</item>
-  <item xml:id="Martyrs">Feasts of the Martyrs</item>
-</list>
+<taxonomy xml:id="calendar">
+  <category xml:id="Pent1Sun">
+    <catDesc>First Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent2Sun">
+    <catDesc>Second Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent3Sun">
+    <catDesc>Third Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent4Sun">
+    <catDesc>Fourth Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent5Sun">
+    <catDesc>Fifth Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent6Sun">
+    <catDesc>Sixth Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent7Sun">
+    <catDesc>Seventh Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Lent2Sun">
+    <catDesc>Second Sunday of Lent</catDesc>
+  </category>
+  <category xml:id="Martyrs">
+    <catDesc>Feasts of the Martyrs</catDesc>
+  </category>
+</taxonomy>
