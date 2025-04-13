@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,6 +30,15 @@
         <rendition xml:id="cross-decorated" scheme="css">
           Indicates rubric headings surrounded by ornamental crosses in the manuscript.
         </rendition>
+        <rendition xml:id="headpiece" scheme="css">
+          Indicates ornamental headpieces in the manuscript.
+        </rendition>
+        <rendition xml:id="red" scheme="css">
+          Indicates rubric headings in red ink in the manuscript.
+        </rendition>
+        <rendition xml:id="black" scheme="css">
+          Indicates black ink in the manuscript.
+        </rendition>
       </tagsDecl>
       <classDecl>
         <taxonomy xml:id="usage">
@@ -44,18 +54,22 @@
     <body>
       <div xml:id="Romans" n="B05" type="Epistle">
         <div type="rubric" corresp="Ro1:1">
-          <pb source="#S155" n="39r" facs="http://localhost:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F2t41720x/full/1500,/0/default.jpg" />
-          <head xml:lang="ar" rend="red decorated">
-            <l>نبدا نكتب مصحف بولس الرسول الصحيفه الولا</l>
-            <l>كتبها الي اهل روميه باسم ربنا المسيح</l>
+          <anchor source="#S155" n="39r" facs="http://localhost:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F2t41720x/full/1500,/0/default.jpg" />
+          <head xml:lang="ar" rend="red cross-decorated headpiece">
+            <choice>
+              <orig xml:lang="ar">
+                <l>نبدا نكتب مصحف بولس الرسول الصحيفه الولا</l>
+                <l>كتبها الي اهل روميه باسم ربنا المسيح</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                We begin to write the Book of Paul the Apostle, the first Epistle,
+                which he wrote to the people of Rome. In the name of our Lord Christ.
+              </reg>
+            </choice>
           </head>
-          <note type="translation" xml:lang="en">
-            We begin to write the Book of Paul the Apostle, the first Epistle,
-            which he wrote to the people of Rome. In the name of our Lord Christ.
-          </note>
         </div>
         <div type="rubric" corresp="Ro5:1">
-          <pb source="#S155" n="43v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F4k04d71t/full/1500,/0/default.jpg" />
+          <anchor source="#S155" n="43v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F4k04d71t/full/1500,/0/default.jpg" />
           <head xml:lang="ar" rend="red">
             <l>تقرا في الاحد الاول هذه اول القرايات</l>
           </head>
@@ -64,7 +78,7 @@
           </note>
         </div>
         <div type="rubric" corresp="Ro6:3">
-          <pb source="#S155" n="44v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fjq16dv05/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="44v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fjq16dv05/full/1500,/0/default.jpg"/>
           <head xml:lang="ar" rend="red">
             <l>تقرا في الاحد الثاني</l>
           </head>
@@ -73,7 +87,7 @@
           </note>
         </div>
         <div type="rubric" corresp="Ro8:2">
-          <pb source="#S155" n="46v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F4357gf3p/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="46v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F4357gf3p/full/1500,/0/default.jpg"/>
           <head xml:lang="ar" rend="red">
             <l>تقرا في الاحد الثالث</l>
           </head>
@@ -82,7 +96,7 @@
           </note>
         </div>
         <div type="rubric" corresp="Ro8:28">
-          <pb source="#S155" n="47v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F7x46h90v/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="47v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F7x46h90v/full/1500,/0/default.jpg"/>
           <head xml:lang="ar" rend="red">
             <l>
               <w>في</w>
@@ -96,7 +110,7 @@
           </note>
         </div>
         <div type="rubric" corresp="Ro9:30">
-          <pb source="#S155" n="49r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fk316pd3k/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="49r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fk316pd3k/full/1500,/0/default.jpg"/>
           <head xml:lang="ar" rend="red">
             <l>تقرا في الاحد الرابع</l>
           </head>
@@ -105,7 +119,7 @@
           </note>
         </div>
         <div type="rubric" corresp="Ro12:1">
-          <pb source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
           <head xml:lang="ar" rend="red">
             <l>تقرا في حد الصوم الثاني</l>
           </head>
@@ -114,7 +128,7 @@
           </note>
         </div>
         <div type="rubric" corresp="Ro12:6">
-          <pb source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
           <head xml:lang="ar" rend="red cross-decorated">
             <l>تقرا</l>
             <l>في الاحد الثالث من الصوم</l>
@@ -124,13 +138,17 @@
           </note>
         </div>
         <div type="rubric" corresp="Ro12:16b">
-          <pb source="#S155" n="52v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Frm947g3m/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="52v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Frm947g3m/full/1500,/0/default.jpg"/>
           <head xml:lang="ar" rend="red cross-decorated">
-            <l>تقرا في حد الرابع من الصوم</l>
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في حد الرابع من الصوم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                It is read on the <date when-custom="#Lent4Sun">fourth Sunday of Lent</date>.
+              </reg>
+            </choice>
           </head>
-          <note type="translation" xml:lang="en">
-            It is read on the <date when-custom="#Lent4Sun">fourth Sunday of Lent</date>.
-          </note>
           <ab type="biblical" corresp="Ro12:16b" rend="black">
             <choice>
               <orig xml:lang="ar">
@@ -143,14 +161,14 @@
             </choice>
           </ab>
         </div>
-      </div><!-- Romans -->
+      </div>      <!-- Romans -->
     </body>
   </text>
 </TEI>
 
 <!--
         <div type="rubric" corresp="">
-          <pb source="#S155" n="" facs=""/>
+          <anchor source="#S155" n="" facs=""/>
           <head xml:lang="ar" rend="red cross-decorated">
             <l></l>
           </head>
