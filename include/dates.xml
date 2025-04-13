@@ -35,4 +35,21 @@
   <category xml:id="ApostlesProphets">
     <catDesc>Feasts of the Apostles Prophets</catDesc>
   </category>  
+  <category xml:id="GreatThursday">
+    <catDesc>Great Thursday (Maundy Thursday)</catDesc>
+  </category>  
+  <category xml:id="Pascha">
+    <catDesc>Pascha (Easter) Sunday</catDesc>
+  </category>  
+  <category xml:id="Mass">
+    <catDesc>Mass</catDesc>
+  </category>  
+  <category xml:id="Dead">
+    <catDesc>Dead</catDesc>
+  </category>  
+  <category xml:id="Morning">
+    <catDesc>Morning</catDesc>
+  </category>  
+
+  
 </taxonomy>

@@ -238,7 +238,7 @@
                 <l>تقرا في يوم صوم القلند في القدس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#EphiphanyFast">day of the fast of Epiphany</date> in the <time when-custom="Mass">Mass</time>.
+                Read on the <date when-custom="#EphiphanyFast">day of the fast of Epiphany</date> in the <time when-custom="#Mass">Mass</time>.
               </reg>
             </choice>
           </head>
@@ -270,6 +270,34 @@
             </choice>
           </head>
         </div>
+        <div type="rubric" corresp="ICor15:1">
+          <anchor source="#S155" n="72v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fz3315z5j/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في صباح حد الفصح فى القدس</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <time when-custom="#Morning">morning</time> of <date when-custom="#Pascha">Sunday of Pascha</date> in the <time when-custom="#Mass">Mass</time>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ICor15:12">
+          <anchor source="#S155" n="73r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fnq757q7p/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>للموتا تقرا في ذكرهم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                For the <date when-custom="#Dead">dead</date>, read on their remembrance.
+              </reg>
+            </choice>
+          </head>
+        </div>
+
+
 
       </div>      <!-- ICorinthians -->
     </body>
