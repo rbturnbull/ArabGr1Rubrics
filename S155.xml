@@ -291,7 +291,63 @@
                 <l>للموتا تقرا في ذكرهم</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                For the <date when-custom="#Dead">dead</date>, read on their remembrance.
+                For <date when-custom="#Dead">the dead</date>, read on their remembrance.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ICor15:19">
+          <anchor source="#S155" n="73r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fnq757q7p/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>للموتا ايضا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                For <date when-custom="#Dead">the dead</date> also.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ICor15:51">
+          <anchor source="#S155" n="74v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fpk227c5m/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا ايضا للموتا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read also for <date when-custom="#">the dead</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- ICorinthians -->
+      <div xml:id="IICorinthians" type="Epistle">
+        <div type="rubric" corresp="IICor1:1">
+          <anchor source="#S155" n="75v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fjq18rq7z/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated headpiece">
+            <choice>
+              <orig xml:lang="ar">
+                <l>رساله بولس الي اهل قرنثيه الثانيه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                The Second Epistle of Paul to the people of Corinth.
+              </reg>
+            </choice>
+          </head>
+        </div>
+
+        <div type="rubric" corresp="ADD_HERE">
+          <anchor source="#S155" n="ADD_HERE" facs="ADD_HERE"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا</l>
+                <l>في الحد الخامس</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#">fifth Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -299,7 +355,34 @@
 
 
 
-      </div>      <!-- ICorinthians -->
+
+        <div type="rubric" corresp="IICor6:2b">
+          <anchor source="#S155" n="80r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fwz04b48j/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في حد الصوم الاول</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#Pent5Sun">first Sunday of the Fast</date>.
+              </reg>
+            </choice>
+          </head>
+          <ab type="biblical" corresp="IICor6:2b" rend="black">
+            <choice>
+              <orig xml:lang="ar">
+                <l>هوذا الان الزمان المتقبل</l>
+                <l>هوذا الان يوم الخلاص:</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Behold now is the acceptable time.
+                Behold now is the day of the salvation.
+              </reg>
+            </choice>
+          </ab>
+        </div>
+
+      </div>      <!-- IICorinthians -->
     </body>
   </text>
 </TEI>

@@ -26,6 +26,9 @@
   <category xml:id="LentProhibitionsSunday">
     <catDesc>Sunday of the Prohibitions</catDesc>
   </category>
+  <category xml:id="Lent1Sun">
+    <catDesc>First Sunday of Lent</catDesc>
+  </category>
   <category xml:id="Lent2Sun">
     <catDesc>Second Sunday of Lent</catDesc>
   </category>
