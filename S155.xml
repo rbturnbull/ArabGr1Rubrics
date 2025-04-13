@@ -52,7 +52,7 @@
   </teiHeader>
   <text>
     <body>
-      <div xml:id="Romans" n="B05" type="Epistle">
+      <div xml:id="Romans" type="Epistle">
         <div type="rubric" corresp="Ro1:1">
           <anchor source="#S155" n="39r" facs="http://localhost:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F2t41720x/full/1500,/0/default.jpg" />
           <head rend="red cross-decorated headpiece">
@@ -202,10 +202,82 @@
             </choice>
           </head>
         </div>
+        <div type="rubric" corresp="Ro14:14">
+          <anchor source="#S155" n="54r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F6864h292/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا فى حد الحروم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#LentProhibitionsSunday">Sunday of Prohibitions</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
       </div>      <!-- Romans -->
+      <div xml:id="ICorinthians" type="Epistle">       
+        <div type="rubric" corresp="ICor1:1">
+          <anchor source="#S155" n="57r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd081611b/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated headpiece">
+            <choice>
+              <orig xml:lang="ar">
+                <l>رساله بولس القديس الرسول الي قرنثيه الولا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                The First Epistle of St Paul the Apostle to the Corinthians.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ICor10:1">
+          <anchor source="#S155" n="66r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F9071641s/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في يوم صوم القلند في القدس</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#EphiphanyFast">day of the fast of Epiphany</date> in the <time when-custom="Mass">Mass</time>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ICor11:23">
+          <anchor source="#S155" n="68v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F9b10g20c/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>للخميس</l>
+                <l>الكبير</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                For <date when-custom="#GreatThursday">Great Thursday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ICor12:27">
+          <anchor source="#S155" n="70r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fvz09r09t/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في اعياد الرسل والانبيا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#ApostlesProphets">Feasts of the Apostles and the Prophets</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+
+      </div>      <!-- ICorinthians -->
     </body>
   </text>
 </TEI>
+
+
+
 
 <!--
         <div type="rubric" corresp="ADD_HERE">

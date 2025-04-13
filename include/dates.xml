@@ -20,10 +20,19 @@
   <category xml:id="Pent7Sun">
     <catDesc>Seventh Sunday after Pentecost</catDesc>
   </category>
+  <category xml:id="EphiphanyFast">
+    <catDesc>Fast of Epiphany.</catDesc>
+  </category>
+  <category xml:id="LentProhibitionsSunday">
+    <catDesc>Sunday of the Prohibitions</catDesc>
+  </category>
   <category xml:id="Lent2Sun">
     <catDesc>Second Sunday of Lent</catDesc>
   </category>
   <category xml:id="Martyrs">
     <catDesc>Feasts of the Martyrs</catDesc>
   </category>
+  <category xml:id="ApostlesProphets">
+    <catDesc>Feasts of the Apostles Prophets</catDesc>
+  </category>  
 </taxonomy>
