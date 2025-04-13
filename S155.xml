@@ -76,7 +76,7 @@
                 <l>تقرا في الاحد الاول هذه اول القرايات</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                It is read on the <date when-custom="#Pent1Sun">first Sunday</date>. This is the first reading.
+                Read on the <date when-custom="#Pent1Sun">first Sunday</date>. This is the first reading.
               </reg>
             </choice>
           </head>
@@ -89,7 +89,7 @@
                 <l>تقرا في الاحد الثاني</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                It is read on the <date when-custom="#Pent2Sun">second Sunday</date>.
+                Read on the <date when-custom="#Pent2Sun">second Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -102,7 +102,7 @@
                 <l>تقرا في الاحد الثالث</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                It is read on the <date when-custom="#Pent3Sun">third Sunday</date>.
+                Read on the <date when-custom="#Pent3Sun">third Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -133,7 +133,7 @@
                 <l>تقرا في الاحد الرابع</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                It is read on the <date when-custom="#Pent4Sun">fourth Sunday</date>.
+                Read on the <date when-custom="#Pent4Sun">fourth Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -146,7 +146,7 @@
                 <l>تقرا في حد الصوم الثاني</l>
               </orig> 
               <reg type="translation" xml:lang="en">
-                It is read on the <date when-custom="#Lent2Sun">second Sunday of Lent</date>.
+                Read on the <date when-custom="#Lent2Sun">second Sunday of Lent</date>.
               </reg>
             </choice>
           </head>
@@ -160,7 +160,7 @@
                 <l>في الاحد الثالث من الصوم</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                It is read on the <date when-custom="#Lent3Sun">third Sunday of Lent</date>.
+                Read on the <date when-custom="#Lent3Sun">third Sunday of Lent</date>.
               </reg>
             </choice>
           </head>
@@ -189,21 +189,34 @@
             </choice>
           </ab>
         </div>
+        <div type="rubric" corresp="Ro13:7">
+          <anchor source="#S155" n="53r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F0t37st9g/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ىقرا في حد الخامس من الصوم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#">fifth Sunday of Lent</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
       </div>      <!-- Romans -->
     </body>
   </text>
 </TEI>
 
 <!--
-        <div type="rubric" corresp="">
-          <anchor source="#S155" n="" facs=""/>
+        <div type="rubric" corresp="ADD_HERE">
+          <anchor source="#S155" n="ADD_HERE" facs="ADD_HERE"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
-                <l></l>
+                <l>ADD_HERE</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                <date when-custom="#"></date>.
+                Read on the <date when-custom="#">ADD_HERE</date>.
               </reg>
             </choice>
           </head>
