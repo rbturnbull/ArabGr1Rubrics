@@ -381,8 +381,50 @@
             </choice>
           </ab>
         </div>
-
       </div>      <!-- IICorinthians -->
+      <div xml:id="Galatians" type="Epistle">
+        <div type="rubric" corresp="Gal1:1">
+          <anchor source="#S155" n="87v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fv334049s/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated headpiece">
+            <choice>
+              <orig xml:lang="ar">
+                <l>رساله بولس القديس الي اهل غلاطيه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Epistle of St Paul to the people of Galatia.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Gal3:24">
+          <anchor source="#S155" n="90v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fkc04bq0k/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ىقرا يوم الميلاد ويوم القير</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#Nativity">day of Nativity</date> and <date when-custom="#WaxTapers">day of the Wax-Tapers</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Gal6:14">
+          <anchor source="#S155" n="93r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fwf59pn25/full/1500,/0/default.jpg"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في</l>
+                <l>يوم عيد الصليب</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#Cross">day of the Feast of the Cross</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+
+      </div>      <!-- Galatians -->
     </body>
   </text>
 </TEI>

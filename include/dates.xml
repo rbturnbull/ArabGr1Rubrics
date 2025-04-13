@@ -35,7 +35,7 @@
   <category xml:id="Martyrs">
     <catDesc>Feasts of the Martyrs</catDesc>
   </category>
-  <category xml:id="ApostlesProphets">
+  <category xml:id="ApostlesProphets">`
     <catDesc>Feasts of the Apostles Prophets</catDesc>
   </category>  
   <category xml:id="GreatThursday">
@@ -53,6 +53,21 @@
   <category xml:id="Morning">
     <catDesc>Morning</catDesc>
   </category>  
+  <category xml:id="WaxTapers">
+    <catDesc>WaxTapers</catDesc>
+  </category>  
+  <category xml:id="Nativity">
+    <catDesc>Nativity</catDesc>
+  </category>    
+  <category xml:id="Cross">
+    <catDesc>Cross</catDesc>
+  </category>    
 
-  
+
 </taxonomy>
+
+<!-- 
+  <category xml:id="ADD_HERE">
+    <catDesc>ADD_HERE</catDesc>
+  </category>    
+-->
