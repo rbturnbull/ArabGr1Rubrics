@@ -96,44 +96,60 @@
         </div>
         <div type="rubric" corresp="Ro8:2">
           <anchor source="#S155" n="46v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F4357gf3p/full/1500,/0/default.jpg"/>
-          <head xml:lang="ar" rend="red">
-            <l>تقرا في الاحد الثالث</l>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في الاحد الثالث</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                It is read on the <date when-custom="#Pent3Sun">third Sunday</date>.
+              </reg>
+            </choice>
           </head>
-          <note type="translation" xml:lang="en">
-            It is read on the <date when-custom="#Pent3Sun">third Sunday</date>.
-          </note>
         </div>
         <div type="rubric" corresp="Ro8:28">
           <anchor source="#S155" n="47v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F7x46h90v/full/1500,/0/default.jpg"/>
-          <head xml:lang="ar" rend="red">
-            <l>
-              <w>في</w>
-              <hi rend="strikethrough">لا</hi>
-              <w>عياد</w>
-              <w>الشهدا</w>
-            </l>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">                
+                <l>
+                  <w>في</w>
+                  <hi rend="strikethrough">لا</hi>
+                  <w>عياد</w>
+                  <w>الشهدا</w>
+                </l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                On the <date when-custom="#Martyrs">Feasts of the Martyrs</date>.
+              </reg>
+            </choice>
           </head>
-          <note type="translation" xml:lang="en">
-            On the <date when-custom="#Martyrs">Feasts of the Martyrs</date>.
-          </note>
         </div>
         <div type="rubric" corresp="Ro9:30">
           <anchor source="#S155" n="49r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fk316pd3k/full/1500,/0/default.jpg"/>
-          <head xml:lang="ar" rend="red">
-            <l>تقرا في الاحد الرابع</l>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في الاحد الرابع</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                It is read on the <date when-custom="#Pent4Sun">fourth Sunday</date>.
+              </reg>
+            </choice>
           </head>
-          <note type="translation" xml:lang="en">
-            It is read on the <date when-custom="#Pent4Sun">fourth Sunday</date>.
-          </note>
         </div>
         <div type="rubric" corresp="Ro12:1">
           <anchor source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
-          <head xml:lang="ar" rend="red">
-            <l>تقرا في حد الصوم الثاني</l>
+          <head xml:lang="ar" rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في حد الصوم الثاني</l>
+              </orig> 
+              <reg type="translation" xml:lang="en">
+                It is read on the <date when-custom="#Lent2Sun">second Sunday of Lent</date>.
+              </reg>
+            </choice>
           </head>
-          <note type="translation" xml:lang="en">
-            It is read on the <date when-custom="#Lent2Sun">second Sunday of Lent</date>.
-          </note>
         </div>
         <div type="rubric" corresp="Ro12:6">
           <anchor source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
