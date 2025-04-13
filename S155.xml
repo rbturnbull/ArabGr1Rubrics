@@ -55,7 +55,7 @@
       <div xml:id="Romans" n="B05" type="Epistle">
         <div type="rubric" corresp="Ro1:1">
           <anchor source="#S155" n="39r" facs="http://localhost:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F2t41720x/full/1500,/0/default.jpg" />
-          <head xml:lang="ar" rend="red cross-decorated headpiece">
+          <head rend="red cross-decorated headpiece">
             <choice>
               <orig xml:lang="ar">
                 <l>نبدا نكتب مصحف بولس الرسول الصحيفه الولا</l>
@@ -70,21 +70,29 @@
         </div>
         <div type="rubric" corresp="Ro5:1">
           <anchor source="#S155" n="43v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F4k04d71t/full/1500,/0/default.jpg" />
-          <head xml:lang="ar" rend="red">
-            <l>تقرا في الاحد الاول هذه اول القرايات</l>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في الاحد الاول هذه اول القرايات</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                It is read on the <date when-custom="#Pent1Sun">first Sunday</date>. This is the first reading.
+              </reg>
+            </choice>
           </head>
-          <note type="translation" xml:lang="en">
-            It is read on the <date when-custom="#Pent1Sun">first Sunday</date>. This is the first reading.
-          </note>
         </div>
         <div type="rubric" corresp="Ro6:3">
           <anchor source="#S155" n="44v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fjq16dv05/full/1500,/0/default.jpg"/>
-          <head xml:lang="ar" rend="red">
-            <l>تقرا في الاحد الثاني</l>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في الاحد الثاني</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                It is read on the <date when-custom="#Pent2Sun">second Sunday</date>.
+              </reg>
+            </choice>
           </head>
-          <note type="translation" xml:lang="en">
-            It is read on the <date when-custom="#Pent2Sun">second Sunday</date>.
-          </note>
         </div>
         <div type="rubric" corresp="Ro8:2">
           <anchor source="#S155" n="46v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F4357gf3p/full/1500,/0/default.jpg"/>
