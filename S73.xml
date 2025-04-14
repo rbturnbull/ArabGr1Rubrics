@@ -253,6 +253,71 @@
             </choice>
           </head>
         </div>
+        <div type="rubric" corresp="ICor11:23">
+          <anchor source="#S73" n="24r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F4g77kg5v/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه الخميس الكبير</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#GreatThursday">Great Thursday</date>
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ICor12:27">
+          <anchor source="#S73" n="25v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fx460t45w/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>يقرا فى اعياد الرسُل</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#Apostles">Feasts of the Apostles</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ICo15:12">
+          <anchor source="#S73" n="28v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F3q93pb64/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه على الموتا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading for <date when-custom="#Dead">the Dead</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ICo15:19">
+          <anchor source="#S73" n="28v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F3q93pb64/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>على الموتا ايضا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                For <date when-custom="#Dead">the Dead</date> also.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ICor15:51">
+          <anchor source="#S73" n="30r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fqq20fs72/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>على الموتا ايضا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                For <date when-custom="#Dead">the Dead</date> also.
+              </reg>
+            </choice>
+          </head>
+        </div>
       </div>      <!-- ICorinthians -->      
     </body>
   </text>
