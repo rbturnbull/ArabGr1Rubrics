@@ -185,8 +185,8 @@
         </div>
       </div>      <!-- Romans -->
       <div xml:id="ICorinthians" type="Epistle">
-        <div type="rubric" corresp="ADD_HERE">
-          <anchor source="#S73" n="ADD_HERE" facs="ADD_HERE"/>
+        <div type="rubric" corresp="1Cor1:1">
+          <anchor source="#S73" n="13r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F3322z04w/full/1500,/0/default.jpg"/>
           <head rend="red">
             <choice>
               <orig xml:lang="ar">
@@ -199,6 +199,58 @@
             </choice>
             <note type="editorial">The rubric seems to be part of the first verse because the black ink starts immediately with 
             'by the will of God and Sosthenes the brother'.</note>
+          </head>
+        </div>
+        <div type="rubric" corresp="ICor1:18">
+          <anchor source="#S73" n="13v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F2m942m2b/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه على الصليب</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading on <date when-custom="#Cross">the Cross</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="1Cor3:8b">
+          <anchor source="#S73" n="15r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F7n35zv15/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>
+                  <w>قراه</w>
+                  <w><unclear reason="smudged">لانكانيا</unclear></w>
+                </l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading for <date when-custom="#Enkania"><unclear reason="smudged">Enkania</unclear></date>.
+              </reg>
+            </choice>
+          </head>
+          <ab type="biblical" corresp="1Cor3:8b" rend="black">
+            <choice>
+              <orig xml:lang="ar">
+                <l>وكل واحد ياخذ اجره نحوا عناه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Each one will receive his reward according to his labor.
+              </reg>
+            </choice>
+          </ab>
+        </div>
+        <div type="rubric" corresp="ICor4:9">
+          <anchor source="#S73" n="16r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fj8516z77/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه على الرسل</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading for <date when-custom="#Apostles">the Apostles</date>.
+              </reg>
+            </choice>
           </head>
         </div>
       </div>      <!-- ICorinthians -->      

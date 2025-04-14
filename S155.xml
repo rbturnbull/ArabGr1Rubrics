@@ -126,7 +126,7 @@
         </div>
         <div type="rubric" corresp="Ro12:1">
           <anchor source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
-          <head xml:lang="ar" rend="red cross-decorated">
+          <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
                 <l>تقرا في حد الصوم الثاني</l>
@@ -153,7 +153,7 @@
         </div>
         <div type="rubric" corresp="Ro12:16b">
           <anchor source="#S155" n="52v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Frm947g3m/full/1500,/0/default.jpg"/>
-          <head xml:lang="ar" rend="red cross-decorated">
+          <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
                 <l>تقرا في حد الرابع من الصوم</l>
