@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectionary Rubrics in Sinai ar. 73 and Paris, BnF ar. 6725</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Robert Turnbull</publisher>
+        <date>2025</date>
+        <availability>
+          <p>This is an open access work licensed under a Creative Commons Attribution 4.0 International license.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="S73">
+          <msIdentifier>
+            <settlement>St. Catherine's Monastery</settlement>
+            <idno>Arabic 73</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Pauline Epistles</summary>
+          </msContents>
+        </msDesc>
+        <msDesc xml:id="BnFar6725">
+          <msIdentifier>
+            <settlement>Bibliothèque nationale de France</settlement>
+            <idno>Arabe 6725</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Pauline Epistles</summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <xi:include href="include/encoding.xml"/>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="Romans" type="Epistle">
+      </div>      <!-- Romans -->
+    </body>
+  </text>
+</TEI>
+
+
+
+
+<!--
+        <div type="rubric" corresp="ADD_HERE">
+          <anchor source="#BLOr8612" n="ADD_HERE"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ADD_HERE</l>
+                <l>ADD_HERE</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#">the ADD_HERE</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+-->

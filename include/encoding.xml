@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude">
+  <tagsDecl>
+    <rendition xml:id="cross-decorated" scheme="css">
+      Indicates rubric headings surrounded by ornamental crosses in the manuscript.
+    </rendition>
+    <rendition xml:id="headpiece" scheme="css">
+      Indicates ornamental headpieces in the manuscript.
+    </rendition>
+    <rendition xml:id="red" scheme="css">
+      Indicates rubric headings in red ink in the manuscript.
+    </rendition>
+    <rendition xml:id="black" scheme="css">
+      Indicates black ink in the manuscript.
+    </rendition>
+  </tagsDecl>
+  <classDecl>
+    <taxonomy xml:id="usage">
+      <category xml:id="translation">
+        <catDesc>Used in @type on &lt;reg&gt; to indicate that it contains a translation of the original text.</catDesc>
+      </category>
+    </taxonomy>
+    <xi:include href="dates.xml"/>
+  </classDecl>
+</encodingDesc>
