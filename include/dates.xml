@@ -68,4 +68,10 @@
   <category xml:id="Epiphany5">
     <catDesc>Fifth day of Epiphany</catDesc>
   </category>
+  <category xml:id="GreatFriday">
+    <catDesc>Great Friday (Good Friday)</catDesc>
+  </category>
+  <category xml:id="GreatSaturday">
+    <catDesc>Great Saturday (Holy Saturday)</catDesc>
+  </category>
 </taxonomy>

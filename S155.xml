@@ -611,7 +611,7 @@
                 <l>تقرا في حد ثلثه اعشر</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#">the 13th Sunday</date>.
+                Read on <date when-custom="#Pent13Sunday">the 13th Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -676,7 +676,175 @@
             </choice>
           </head>
         </div>
+        <div type="rubric" corresp="Heb2:11">
+          <anchor source="#BLOr8612" n="21r"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في</l>
+                <l>حد ثلثه عشر وتقرا في الجمعه الكبيره</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on 
+                <date when-custom="#Pent13Sunday">the thirteenth Sunday</date> and read on <date when-custom="#GreatFriday">Great Friday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb9:1">
+          <anchor source="#BLOr8612" n="26v"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا لنياحه مرتمريم ولكل انقانيا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#DormitionMary">the Dormition of the Lady Mary</date> and for every <date when-custom="#Enkania">Enkania</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb9:11">
+          <anchor source="#BLOr8612" n="27r"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في حد ثلثه اعشر</l>
+                <l>وللجمعه الكبيره</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Pent13Sunday">the thirteenth Sunday</date>
+                and for <date when-custom="#GreatFriday">Great Friday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb10:19">
+          <anchor source="#BLOr8612" n="29r"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في حد اربعه عشر ✢ ايضا وللجمعه</l>
+                <l>الكبيره</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Pent14Sunday">the fourteenth Sunday</date>. Also for <date when-custom="#GreatFriday">Great Friday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb11:32">
+          <anchor source="#BLOr8612" n="31r"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في تذكره الشهدا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Martyrs">the remembrance of the Martyrs</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb12:1">
+          <anchor source="#BLOr8612" n="31v"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في عيد اربعين شاهد</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#FortyMartyrs">the Feast of the Forty Martyrs</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb13:7">
+          <anchor source="#BLOr8612" n="33v"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا</l>
+                <l>للعازر ايضا وللابرار</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Lazarus">Lazarus?</date> and also for <date when-custom="#Righteous">the Righteous</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
       </div>      <!-- Hebrews -->
+      <div xml:id="ITimothy" type="Epistle">
+        <div type="rubric" corresp="ITim1:1">
+          <anchor source="#BLOr8612" n="34r"/>
+          <head rend="red cross-decorated headpiece">
+            <choice>
+              <orig xml:lang="ar">
+                <l>رساله بولس الي طيموثيوس الولا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                The First Epistle of St Paul to Timothy.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ITim1:15">
+          <anchor source="#BLOr8612" n="35r"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>فى ذكر مر اسطفنس</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                On <date when-custom="#Lazarus">the remembrance of St Stephen</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ITim3:14">
+          <anchor source="#BLOr8612" n="36v"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا فى صعود المسيح ✢ ولتقديس</l>
+                <l>الكنيس</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Accension">the Accension of Christ</date>. And for the <date when-custom="#SanctificationChurch">sanctification of the church</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="ITim6:13">
+          <anchor source="#BLOr8612" n="39r"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>للجمعه</l>
+                <l>الكبيره ايضا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                For <date when-custom="#GreatFriday">Great Friday</date> also.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- ITimothy -->
+      <div xml:id="IITimothy" type="Epistle">
+        <div type="rubric" corresp="IITim1:1">
+          <anchor source="#BLOr8612" n="39v"/>
+          <head rend="red cross-decorated headpiece">
+            <choice>
+              <orig xml:lang="ar">
+                <l>رساله بولس الي طيموثيوس الثانيه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                The Second Epistle of Paul to Timothy.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- IITimothy -->
     </body>
   </text>
 </TEI>
