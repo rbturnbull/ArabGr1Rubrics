@@ -79,6 +79,102 @@
             </choice>
           </head>
         </div>
+        <div type="rubric" corresp="Ro10:1">
+          <anchor source="#S73" n="5r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fmg36zb0x/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ىقرا فى الاحد الرابع بعد العنصره</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Pent4Sun">the fourth Sunday after Pentecost</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Ro12:1">
+          <anchor source="#S73" n="7v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F4z16574g/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ىقرا فى الاحد الثانى من الصوم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Lent2Sun">the second Sunday of the Fast</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Ro12:6">
+          <anchor source="#S73" n="8r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fnb49tb6p/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه فى الاحد الثالث من الصوم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading on <date when-custom="#Lent3Sun">the third Sunday of the Fast</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Ro12:16b">
+          <anchor source="#S73" n="8r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fnb49tb6p/full/1500,/0/default.jpg"/>
+          <head xml:lang="ar" rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه</l>
+                <l>الاحد الرابع من الصوم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Lent4Sun">the fourth Sunday of the Fast</date>.
+              </reg>
+            </choice>
+          </head>
+          <ab type="biblical" corresp="Ro12:16b" rend="black">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ولا تكونوا حُلما فى</l>
+                <l>انفسكم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Do not be wise in yourselves.
+              </reg>
+            </choice>
+          </ab>
+        </div>
+        <div type="rubric" corresp="Ro13:7">
+          <anchor source="#S73" n="8v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fxj709h0c/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه الاحد</l>
+                <l>الخامس من الصوم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Lent5Sun">the fifth Sunday of Lent</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Ro14:14">
+          <anchor source="#S73" n="9v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F6219rp68/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه فى الحروم الاول</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading on <date when-custom="#LentProhibitionsSunday">the first Prohibitions</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+
+
+
+
+        
       </div>      <!-- Romans -->
     </body>
   </text>

@@ -62,7 +62,7 @@
                 <l>تقرا في الاحد الاول هذه اول القرايات</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#Pent1Sun">first Sunday</date>. This is the first reading.
+                Read on <date when-custom="#Pent1Sun">the first Sunday</date>. This is the first reading.
               </reg>
             </choice>
           </head>
@@ -75,7 +75,7 @@
                 <l>تقرا في الاحد الثاني</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#Pent2Sun">second Sunday</date>.
+                Read on <date when-custom="#Pent2Sun">the second Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -88,7 +88,7 @@
                 <l>تقرا في الاحد الثالث</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#Pent3Sun">third Sunday</date>.
+                Read on <date when-custom="#Pent3Sun">the third Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -119,7 +119,7 @@
                 <l>تقرا في الاحد الرابع</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#Pent4Sun">fourth Sunday</date>.
+                Read on <date when-custom="#Pent4Sun">the fourth Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -132,7 +132,7 @@
                 <l>تقرا في حد الصوم الثاني</l>
               </orig> 
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#Lent2Sun">second Sunday of Lent</date>.
+                Read on <date when-custom="#Lent2Sun">the second Sunday of the Fast</date>.
               </reg>
             </choice>
           </head>
@@ -146,7 +146,7 @@
                 <l>في الاحد الثالث من الصوم</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#Lent3Sun">third Sunday of Lent</date>.
+                Read on <date when-custom="#Lent3Sun">the third Sunday of the Fast</date>.
               </reg>
             </choice>
           </head>
@@ -159,7 +159,7 @@
                 <l>تقرا في حد الرابع من الصوم</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                It is read on the <date when-custom="#Lent4Sun">fourth Sunday of Lent</date>.
+                Read on <date when-custom="#Lent4Sun">the fourth Sunday of the Fast</date>.
               </reg>
             </choice>
           </head>
@@ -183,7 +183,7 @@
                 <l>ىقرا في حد الخامس من الصوم</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#">fifth Sunday of Lent</date>.
+                Read on the <date when-custom="#">fifth Sunday of the Fast</date>.
               </reg>
             </choice>
           </head>
