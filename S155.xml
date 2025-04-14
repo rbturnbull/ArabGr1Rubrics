@@ -586,6 +586,65 @@
           </head>
         </div>
       </div>      <!-- Philippians -->
+      <div xml:id="Colossians" type="Epistle">
+        <div type="rubric" corresp="Col1:1">
+          <anchor source="#BLOr8612" n="9v–10r"/>
+          <head rend="red cross-decorated headpiece">
+            <choice>
+              <orig xml:lang="ar">
+                <l>رساله بولس القديس اهل قلسايس ✢ تقرا في</l>
+                <pb source="#BLOr8612" n="10r"/>
+                <l>اثنا عشر</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                The Epistle of St Paul [to] the people of Colossae. Read on
+                <date when-custom="#Pent12Sunday">the twelfth</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Col2:8">
+          <anchor source="#BLOr8612" n="11v"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في حد ثلثه اعشر</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#">the 13th Sunday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- Colossians -->
+      <div xml:id="IThessalonians" type="Epistle">
+        <div type="rubric" corresp="IThes1:1">
+          <anchor source="#BLOr8612" n="14r"/>
+          <head rend="red cross-decorated headpiece">
+            <choice>
+              <orig xml:lang="ar">
+                <l>رساله بولس القديس الي اهل ثسلونيقيه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                The Epistle of St Paul to the people of Thessalonica.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="IThess4:13">
+          <anchor source="#BLOr8612" n="16v"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا علي الموتا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read over <date when-custom="#Dead">the dead</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- IThessalonians -->
     </body>
   </text>
 </TEI>
@@ -603,7 +662,7 @@
                 <l>ADD_HERE</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#">ADD_HERE</date>.
+                Read on <date when-custom="#">the ADD_HERE</date>.
               </reg>
             </choice>
           </head>
