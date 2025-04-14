@@ -74,4 +74,7 @@
   <category xml:id="GreatSaturday">
     <catDesc>Great Saturday (Holy Saturday)</catDesc>
   </category>
+  <category xml:id="StBasil">
+    <catDesc>Feast of Saint Basil the Great</catDesc>
+  </category>
 </taxonomy>

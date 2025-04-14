@@ -170,12 +170,38 @@
             </choice>
           </head>
         </div>
-
-
-
-
-        
+        <div type="rubric" corresp="Ro15:8">
+          <anchor source="#S73" n="10v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F0j30m328/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ىقرا فى عيد مار بسيليوس</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#StBasil">the Feast of St Basil</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
       </div>      <!-- Romans -->
+      <div xml:id="ICorinthians" type="Epistle">
+        <div type="rubric" corresp="ADD_HERE">
+          <anchor source="#S73" n="ADD_HERE" facs="ADD_HERE"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l><unclear reason="smudged">رساله بولس الرسول الى قرنثيا 
+                <gap reason="illegible" unit="word"/></unclear></l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                The Epistle of Paul the Apostle to the Corinthians <gap reason="illegible" unit="word"/>
+              </reg>
+            </choice>
+            <note type="editorial">The rubric seems to be part of the first verse because the black ink starts immediately with 
+            'by the will of God and Sosthenes the brother'.</note>
+          </head>
+        </div>
+      </div>      <!-- ICorinthians -->      
     </body>
   </text>
 </TEI>
