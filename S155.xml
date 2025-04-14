@@ -247,7 +247,7 @@
                 <l>تقرا في يوم صوم القلند في القدس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#EphiphanyFast">day of the fast of Epiphany</date> in the <time when-custom="#Mass">Mass</time>.
+                Read on the <date when-custom="#EphiphanyFast">day of the fast of Epiphany</date> in the <time when-custom="#DivineLiturgy">Divine Liturgy</time>.
               </reg>
             </choice>
           </head>
@@ -287,7 +287,7 @@
                 <l>تقرا في صباح حد الفصح فى القدس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <time when-custom="#Morning">morning</time> of <date when-custom="#Pascha">Sunday of Pascha</date> in the <time when-custom="#Mass">Mass</time>.
+                Read on the <time when-custom="#Morning">morning</time> of <date when-custom="#Pascha">Sunday of Pascha</date> in the <time when-custom="#DivineLiturgy">Divine Liturgy</time>.
               </reg>
             </choice>
           </head>
@@ -645,6 +645,38 @@
           </head>
         </div>
       </div>      <!-- IThessalonians -->
+      <div xml:id="IIThessalonians" type="Epistle">
+        <div type="rubric" corresp="IIThes1:1">
+          <anchor source="#BLOr8612" n="17v"/>
+          <head rend="red cross-decorated headpiece">
+            <choice>
+              <orig xml:lang="ar">
+                <l>رساله بولس القديس الثانيه الي اهل ثسلونيقيه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                The Second Epistle of St Paul to the people of Thessalonica.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- IIThessalonians -->
+      <div xml:id="Hebrews" type="Epistle">
+        <div type="rubric" corresp="Heb1:1">
+          <anchor source="#BLOr8612" n="19v"/>
+          <head rend="red cross-decorated headpiece">
+            <choice>
+              <orig xml:lang="ar">
+                <l>رساله بولس الي العبرانين تقرا في يوم صوم الميلاد</l>
+                <l>في القدس</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                The Epistle of St Paul to the Hebrews. Read on the <date when-custom="#NativityFast">fast of the Nativity</date>
+                in the <time when-custom="#DivineLiturgy">Divine Liturgy</time>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- Hebrews -->
     </body>
   </text>
 </TEI>

@@ -44,8 +44,8 @@
   <category xml:id="Pascha">
     <catDesc>Pascha (Easter) Sunday</catDesc>
   </category>  
-  <category xml:id="Mass">
-    <catDesc>Mass</catDesc>
+  <category xml:id="DivineLiturgy">
+    <catDesc>The Divine Liturgy (Mass)</catDesc>
   </category>  
   <category xml:id="Dead">
     <catDesc>Dead</catDesc>
