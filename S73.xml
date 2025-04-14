@@ -39,6 +39,46 @@
   <text>
     <body>
       <div xml:id="Romans" type="Epistle">
+        <div type="rubric" corresp="Ro8:2">
+          <anchor source="#S73" n="2r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fpn784867/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>يُقرا في ثالث حد بعد العنصره</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Pent3Sun">the third Sunday after Pentecost</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Ro8:12">
+          <anchor source="#S73" n="2v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F54487r7s/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ىقرا فى اعياد</l>
+                <l>الشهدا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Martyrs">the Feasts of the Martyrs</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Ro8:28">
+          <anchor source="#S73" n="3v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fq480bz6p/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>لاعياد الشهدا ايضا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                For <date when-custom="#Martyrs">the Martyrs</date> also.
+              </reg>
+            </choice>
+          </head>
+        </div>
       </div>      <!-- Romans -->
     </body>
   </text>
@@ -49,8 +89,8 @@
 
 <!--
         <div type="rubric" corresp="ADD_HERE">
-          <anchor source="#BLOr8612" n="ADD_HERE"/>
-          <head rend="red cross-decorated">
+          <anchor source="#S73" n="ADD_HERE" facs="ADD_HERE"/>
+          <head rend="red">
             <choice>
               <orig xml:lang="ar">
                 <l>ADD_HERE</l>

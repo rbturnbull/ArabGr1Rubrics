@@ -106,7 +106,7 @@
                 </l>
               </orig>
               <reg type="translation" xml:lang="en">
-                On the <date when-custom="#Martyrs">Feasts of the Martyrs</date>.
+                On <date when-custom="#Martyrs">the Feasts of the Martyrs</date>.
               </reg>
             </choice>
           </head>
