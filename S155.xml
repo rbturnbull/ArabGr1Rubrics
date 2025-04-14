@@ -516,9 +516,76 @@
             </choice>
           </head>
         </div>
-
-        
+        <div type="rubric" corresp="Eph4:7">
+          <anchor source="#BLOr8612" n="2v"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في اعياد الرسل</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#Apostles">Feasts of the Apostles</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph4:25">
+          <anchor source="#BLOr8612" n="3r"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في</l>
+                <l>الجمعه السابعه من الصوم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on the <date when-custom="#Lent7Friday">seventh Friday of the Fast</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
       </div>      <!-- Ephesians -->
+      <div xml:id="Philippians" type="Epistle">
+        <div type="rubric" corresp="Phil1:1">
+          <anchor source="#BLOr8612" n="5r"/>
+          <head rend="red cross-decorated small-headpiece">
+            <choice>
+              <orig xml:lang="ar">
+                <l>رساله بولس القديس الي الفلبسين</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Epistle of St Paul to the Philippians.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Phil2:5">
+          <anchor source="#BLOr8612" n="6v"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في الاحد</l>
+                <l>العاشر</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Pent10Sunday">the tenth Sunday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Phil4:4">
+          <anchor source="#BLOr8612" n="9r"/>
+          <head rend="red cross-decorated">
+            <choice>
+              <orig xml:lang="ar">
+                <l>تقرا في حد حد عشر</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Pent11Sunday">the eleventh Sunday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- Philippians -->
     </body>
   </text>
 </TEI>
@@ -532,6 +599,7 @@
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
+                <l>ADD_HERE</l>
                 <l>ADD_HERE</l>
               </orig>
               <reg type="translation" xml:lang="en">
