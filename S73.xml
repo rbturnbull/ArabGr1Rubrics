@@ -401,7 +401,142 @@
             </choice>
           </head>
         </div>
+        <div type="rubric" corresp="Gal1:11">
+          <anchor source="#S73" n="43r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Ft785qv9d/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>يقرا ثاني الميلاد</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read <date when-custom="#NativitySecond">the second of Nativity</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Gal3:24">
+          <anchor source="#S73" n="45v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F4731kq01/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ىقرا فى الميلاد وفى رابع قداس الما</l>
+                <l>وفى عيد القير</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Nativity">the Nativity</date> and on <date when-custom="#Water4">fourth of the Sanctification of Water</date> 
+                and on <date when-custom="#WaxTapers">the Feast of the Wax-Tapers</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Gal4:26">
+          <anchor source="#S73" n="46v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fnc706s4p/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ىقرا يوم عيد مار يحنا المعمداني</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#JohnBaptist">the day of Feast of St John the Baptist</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Gal6:14">
+          <anchor source="#S73" n="48v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F3t12vr4b/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه على السليب في يوم جمعه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#CrossFriday">the Cross, on Friday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
       </div>      <!-- Galatians -->      
+      <div xml:id="Ephesians" type="Epistle">
+        <div type="rubric" corresp="Eph1:1">
+          <anchor source="#S73" n="48v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F3t12vr4b/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>هذه رساله بولس الرسول الى اهل افسس وهى من العدد خمسه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                This is the Epistle of Paul the Apostle to the people of Ephesus. And it is the fifth in order.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph1:3">
+          <anchor source="#S73" n="48v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F3t12vr4b/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ىقرا فى البايا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#PalmSunday">Palm Sunday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph1:17">
+          <anchor source="#S73" n="49r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fj459r421/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ىقرا فى حد السابع بعد العنصره</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Pent7Sun">the seventh Sunday after Pentecost</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph2:4">
+          <anchor source="#S73" n="49v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F4g767r32/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه الاحد الثامن</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Pent8Sun">the eighth Sunday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph2:13b">
+          <anchor source="#S73" n="50r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fh908b277/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه التاسع</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Pent9Sun">the ninth</date>.
+              </reg>
+            </choice>
+            <ab type="biblical" corresp="Eph2:13b" rend="black">
+              <choice>
+                <orig xml:lang="ar">
+                  <l>وانتم ايها الذين كنتم بُعدا صرتم</l>
+                  <l>قُربا بدم المسيح.</l>
+                </orig>
+                <reg type="translation" xml:lang="en">
+                  And you who were far off
+                  have become near by the blood of Christ.
+                </reg>
+              </choice>
+            </ab>
+  
+            
+          </head>
+        </div>
+      </div>      <!-- Ephesians -->      
     </body>
   </text>
 </TEI>
@@ -419,7 +554,7 @@
                 <l>ADD_HERE</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#">the ADD_HERE</date>.
+                Reading of <date when-custom="#">the ADD_HERE</date>.
               </reg>
             </choice>
           </head>
