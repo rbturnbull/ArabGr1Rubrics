@@ -519,22 +519,20 @@
               <reg type="translation" xml:lang="en">
                 Reading of <date when-custom="#Pent9Sun">the ninth</date>.
               </reg>
-            </choice>
-            <ab type="biblical" corresp="Eph2:13b" rend="black">
-              <choice>
-                <orig xml:lang="ar">
-                  <l>وانتم ايها الذين كنتم بُعدا صرتم</l>
-                  <l>قُربا بدم المسيح.</l>
-                </orig>
-                <reg type="translation" xml:lang="en">
-                  And you who were far off
-                  have become near by the blood of Christ.
-                </reg>
-              </choice>
-            </ab>
-  
-            
+            </choice>            
           </head>
+          <ab type="biblical" corresp="Eph2:13b" rend="black">
+            <choice>
+              <orig xml:lang="ar">
+                <l>وانتم ايها الذين كنتم بُعدا صرتم</l>
+                <l>قُربا بدم المسيح.</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                And you who were far off
+                have become near by the blood of Christ.
+              </reg>
+            </choice>
+          </ab>
         </div>
       </div>      <!-- Ephesians -->      
     </body>

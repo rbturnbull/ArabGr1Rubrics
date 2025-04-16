@@ -386,7 +386,7 @@
                 <l>ىقرا يوم الميلاد ويوم القير</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#Nativity">day of Nativity</date> and <date when-custom="#WaxTapers">day of the Wax-Tapers</date>.
+                Read on <date when-custom="#Nativity">the day of Nativity</date> and <date when-custom="#WaxTapers">the day of the Wax-Tapers</date>.
               </reg>
             </choice>
           </head>
