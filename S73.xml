@@ -319,6 +319,22 @@
           </head>
         </div>
       </div>      <!-- ICorinthians -->      
+      <div xml:id="IICorinthians" type="Epistle">
+        <div type="rubric" corresp="IICor1:1">
+          <anchor source="#S73" n="31r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Ff2728b6c/full/1500,/0/default.jpg"/>
+          <head>
+            <choice>
+              <orig xml:lang="ar">
+                <l rend="red">هذه رساله بولس الرسول الي اهل قرنثيه الثانيه. وهى من العدد</l>
+                <l rend="black">الثالثه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                This is the Second Epistle of the Apostle Paul to the people of Corinth. And it is the third in order.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- IICorinthians -->      
     </body>
   </text>
 </TEI>
