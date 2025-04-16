@@ -185,7 +185,7 @@
         </div>
       </div>      <!-- Romans -->
       <div xml:id="ICorinthians" type="Epistle">
-        <div type="rubric" corresp="1Cor1:1">
+        <div type="rubric" corresp="ICor1:1">
           <anchor source="#S73" n="13r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F3322z04w/full/1500,/0/default.jpg"/>
           <head rend="red">
             <choice>
@@ -214,7 +214,7 @@
             </choice>
           </head>
         </div>
-        <div type="rubric" corresp="1Cor3:8b">
+        <div type="rubric" corresp="ICor3:8b">
           <anchor source="#S73" n="15r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F7n35zv15/full/1500,/0/default.jpg"/>
           <head rend="red">
             <choice>
@@ -229,7 +229,7 @@
               </reg>
             </choice>
           </head>
-          <ab type="biblical" corresp="1Cor3:8b" rend="black">
+          <ab type="biblical" corresp="ICor3:8b" rend="black">
             <choice>
               <orig xml:lang="ar">
                 <l>وكل واحد ياخذ اجره نحوا عناه</l>
