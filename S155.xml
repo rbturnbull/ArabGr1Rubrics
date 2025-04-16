@@ -183,7 +183,7 @@
                 <l>ىقرا في حد الخامس من الصوم</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#">fifth Sunday of the Fast</date>.
+                Read on the <date when-custom="#Lent5Sun">fifth Sunday of the Fast</date>.
               </reg>
             </choice>
           </head>
@@ -303,7 +303,7 @@
                 <l>تقرا ايضا للموتا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read also for <date when-custom="#">the dead</date>.
+                Read also for <date when-custom="#Dead">the dead</date>.
               </reg>
             </choice>
           </head>
