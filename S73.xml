@@ -534,6 +534,58 @@
             </choice>
           </ab>
         </div>
+        <div type="rubric" corresp="Eph4:1">
+          <anchor source="#S73" n="51r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F8842dr5k/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه خامس قداس الما</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Water5">the fifth of the Sanctification of Water</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph4:7">
+          <anchor source="#S73" n="51r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F8842dr5k/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه على الاىا؟ المعلمين</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#">the ?? of the teachers</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph4:25">
+          <anchor source="#S73" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fhd87kc70/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه حد السادس من الصوم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Lent6Sun">the sixth Sunday of the Fast</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Eph6:10">
+          <anchor source="#S73" n="53v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fv113fs36/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه للشهدا ايضا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Martyrs">the Martyrs</date> also.
+              </reg>
+            </choice>
+          </head>
+        </div>
       </div>      <!-- Ephesians -->      
     </body>
   </text>
