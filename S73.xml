@@ -326,7 +326,7 @@
             <choice>
               <orig xml:lang="ar">
                 <l rend="red">هذه رساله بولس الرسول الي اهل قرنثيه الثانيه. وهى من العدد</l>
-                <l rend="black">الثالثه</l>
+                <l rend="black">✢ الثالثه</l>
               </orig>
               <reg type="translation" xml:lang="en">
                 This is the Second Epistle of the Apostle Paul to the people of Corinth. And it is the third in order.
@@ -334,7 +334,74 @@
             </choice>
           </head>
         </div>
+        <div type="rubric" corresp="IICor4:7">
+          <anchor source="#S73" n="34r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F4657g016/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه يوم السبت على الشهدا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#MartyrsSaturday">the Saturday for the Martyrs</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="IICor5:14">
+          <anchor source="#S73" n="35r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F86855g23/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه الاحد السادس بعد العنصره</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Pent6Sun">the sixth Sunday after Pentecost</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="IICor6:2b">
+          <anchor source="#S73" n="35v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fzt37f86f/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه الحروم الثاني</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Prohibitions">the Prohibitions</date> the second.
+              </reg>
+            </choice>
+          </head>
+          <ab type="biblical" corresp="IICor6:2b" rend="black">
+            <choice>
+              <orig xml:lang="ar">
+                <l>هوذا الان الزمان المتقبل هوذا</l>
+                <l> الان يوم الخلاص</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Behold now is the acceptable time. Behold 
+                now is the day of the salvation.
+              </reg>
+            </choice>
+          </ab>
+        </div>
       </div>      <!-- IICorinthians -->      
+      <div xml:id="Galatians" type="Epistle">
+        <div type="rubric" corresp="ADD_HERE">
+          <anchor source="#S73" n="ADD_HERE" facs="ADD_HERE"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>هذه رساله بولس الرسول الي اهل غلاطيه وهى من</l>
+                <l>العدد رابعه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                This is the Epistle of Paul the Apostle to the people of Galatia. And it is the fourth in order.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- Galatians -->      
     </body>
   </text>
 </TEI>
