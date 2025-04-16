@@ -333,15 +333,11 @@
                 <l>في الحد الخامس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#">fifth Sunday</date>.
+                Read on the <date when-custom="#Pent5Sun">fifth Sunday</date>.
               </reg>
             </choice>
           </head>
         </div>
-
-
-
-
         <div type="rubric" corresp="IICor6:2b">
           <anchor source="#S155" n="80r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fwz04b48j/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
@@ -350,7 +346,7 @@
                 <l>تقرا في حد الصوم الاول</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#Pent5Sun">first Sunday of the Fast</date>.
+                Read on the <date when-custom="#Lent1Sun">first Sunday of the Fast</date>.
               </reg>
             </choice>
           </head>
