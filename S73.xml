@@ -587,6 +587,176 @@
           </head>
         </div>
       </div>      <!-- Ephesians -->      
+      <div xml:id="Philippians" type="Epistle">
+        <div type="rubric" corresp="Phil1:1">
+          <anchor source="#S73" n="54v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F6764w193/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>هذا رساله بولس الى اهل فيليبسيوس وهى من العدد</l>
+                <l>السادسه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                This is the Epistle of Paul to the people of Phillipi. And it is the sixth in order.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Phil2:5">
+          <anchor source="#S73" n="56r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fxt502x5p/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>
+                  <w>قراه</w>
+                  <w>الحد</w>
+                  <w>اعشر</w>
+                  <w>حد</w>
+                  <add place="above" type="interlinear" rend="red" xml:lang="ar"><w>بعد</w></add>
+                  <w>العنصره</w>
+                </l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Pent10Sun">the tenth Sunday after Pentecost.</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Phil4:4">
+          <anchor source="#S73" n="58r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F2r48307x/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه فى الاحد الاثنعشر</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Pent12Sun">the twelfth Sunday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- Philippians -->   
+      <div xml:id="Colossians" type="Epistle">
+        <div type="rubric" corresp="Col1:1">
+          <anchor source="#S73" n="59r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F6n90072f/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>هذه رساله بولس الرسول الى اهل قولوسايس وهى</l>
+                <l>من العدد السابعه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                This is the Epistle of Paul the Apostle to the people of Colossae. And it is 
+                the seventh in order.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Col1:12">
+          <anchor source="#S73" n="59v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F2100wg3x/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه الاحد الثلثه اعشر</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Pent13Sun">the thirteenth Sunday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Col2:5">
+          <anchor source="#S73" n="61r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fcq79qx80/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه فى الاحد اربعه اعشر وفى سادس قداس الما</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#">the fourteenth Sunday</date>
+                and the <date when-custom="SanctificationWater6">sixth of the Sanctification of Water</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- Colossians -->   
+      <div xml:id="IThesalonians" type="Epistle">
+        <div type="rubric" corresp="IThes1:1">
+          <anchor source="#S73" n="64r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fcf166r05/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>هذه رساله بولس الرسول الي اهل تسلونيقيه الاوله</l>
+                <l>وهى من العدد الثامنه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                This is the Epistle of Paul the Apostle to the people of Thessalonica.
+                And it is the eighth in order.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="IThes4:13">
+          <anchor source="#S73" n="67r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fmt10r670/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه للموتا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading for <date when-custom="#Dead">the Dead</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- IThesalonians -->   
+      <div xml:id="IIThesalonians" type="Epistle">
+        <div type="rubric" corresp="IIThess1:1">
+          <anchor source="#S73" n="68r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2F6858p32g/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>هذه رساله بولس الرسول الى اهل تسلونيقيه الثانيه</l>
+                <l>وهى من العدد التاسعه</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                This is the Epistle of Paul the Apostle to the people of Thessalonica.
+                And it is the ninth in order.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- IIThesalonians -->   
+      <div xml:id="Hebrews" type="Epistle">
+        <div type="rubric" corresp="Heb1:1">
+          <anchor source="#S73" n="70v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fc140jm8n/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>هذه رساله بولس الرسول الى العبرانين وهى من العدد</l>
+                <l>عاشره ✢ قراه ليله صيام الميلاد</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                This is the Epistle of Paul the Apostle to the Hebrews. And it is the tenth in order.
+                Reading on the night of the <date when-custom="#NativityFast">Fast of Nativity</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb2:11">
+          <anchor source="#S73" n="72r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fht96z89m/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه حد خمسه اعشر</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Pent15Sun">the fifteenth Sunday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- Hebrews -->   
     </body>
   </text>
 </TEI>
