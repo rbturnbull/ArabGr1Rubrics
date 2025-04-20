@@ -55,7 +55,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Ro5:1">
-          <anchor source="#S155" n="43v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F4k04d71t/full/1500,/0/default.jpg" />
+          <anchor source="#S155" n="43v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2F4k04d71t/full/1500,/0/default.jpg" />
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -68,7 +68,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Ro6:3">
-          <anchor source="#S155" n="44v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fjq16dv05/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="44v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fjq16dv05/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -81,7 +81,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Ro8:2">
-          <anchor source="#S155" n="46v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F4357gf3p/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="46v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2F4357gf3p/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -94,7 +94,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Ro8:28">
-          <anchor source="#S155" n="47v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F7x46h90v/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="47v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2F7x46h90v/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">                
@@ -112,7 +112,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Ro9:30">
-          <anchor source="#S155" n="49r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fk316pd3k/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="49r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fk316pd3k/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -125,7 +125,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Ro12:1">
-          <anchor source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="52r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -138,7 +138,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Ro12:6">
-          <anchor source="#S155" n="52r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="52r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fd558v77s/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -152,7 +152,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Ro12:16b">
-          <anchor source="#S155" n="52v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Frm947g3m/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="52v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Frm947g3m/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -176,7 +176,7 @@
           </ab>
         </div>
         <div type="rubric" corresp="Ro13:7">
-          <anchor source="#S155" n="53r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F0t37st9g/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="53r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2F0t37st9g/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -189,7 +189,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Ro14:14">
-          <anchor source="#S155" n="54r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F6864h292/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="54r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2F6864h292/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -204,7 +204,7 @@
       </div>      <!-- Romans -->
       <div xml:id="ICorinthians" type="Epistle">       
         <div type="rubric" corresp="ICor1:1">
-          <anchor source="#S155" n="57r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fd081611b/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="57r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fd081611b/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated headpiece">
             <choice>
               <orig xml:lang="ar">
@@ -217,7 +217,7 @@
           </head>
         </div>
         <div type="rubric" corresp="ICor10:1">
-          <anchor source="#S155" n="66r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F9071641s/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="66r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2F9071641s/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -230,7 +230,7 @@
           </head>
         </div>
         <div type="rubric" corresp="ICor11:23">
-          <anchor source="#S155" n="68v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F9b10g20c/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="68v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2F9b10g20c/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -244,7 +244,7 @@
           </head>
         </div>
         <div type="rubric" corresp="ICor12:27">
-          <anchor source="#S155" n="70r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fvz09r09t/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="70r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fvz09r09t/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -257,7 +257,7 @@
           </head>
         </div>
         <div type="rubric" corresp="ICor15:1">
-          <anchor source="#S155" n="72v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fz3315z5j/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="72v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fz3315z5j/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -270,7 +270,7 @@
           </head>
         </div>
         <div type="rubric" corresp="ICor15:12">
-          <anchor source="#S155" n="73r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fnq757q7p/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="73r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fnq757q7p/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -283,7 +283,7 @@
           </head>
         </div>
         <div type="rubric" corresp="ICor15:19">
-          <anchor source="#S155" n="73r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fnq757q7p/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="73r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fnq757q7p/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -296,7 +296,7 @@
           </head>
         </div>
         <div type="rubric" corresp="ICor15:51">
-          <anchor source="#S155" n="74v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fpk227c5m/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="74v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fpk227c5m/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -311,7 +311,7 @@
       </div>      <!-- ICorinthians -->
       <div xml:id="IICorinthians" type="Epistle">
         <div type="rubric" corresp="IICor1:1">
-          <anchor source="#S155" n="75v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fjq18rq7z/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="75v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fjq18rq7z/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated headpiece">
             <choice>
               <orig xml:lang="ar">
@@ -325,7 +325,7 @@
         </div>
 
         <div type="rubric" corresp="IICor5:14">
-          <anchor source="#S155" n="79v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F2j06qp1m/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="79v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2F2j06qp1m/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -339,7 +339,7 @@
           </head>
         </div>
         <div type="rubric" corresp="IICor6:2b">
-          <anchor source="#S155" n="80r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fwz04b48j/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="80r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fwz04b48j/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -366,7 +366,7 @@
       </div>      <!-- IICorinthians -->
       <div xml:id="Galatians" type="Epistle">
         <div type="rubric" corresp="Gal1:1">
-          <anchor source="#S155" n="87v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fv334049s/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="87v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fv334049s/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated headpiece">
             <choice>
               <orig xml:lang="ar">
@@ -379,7 +379,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Gal3:24">
-          <anchor source="#S155" n="90v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fkc04bq0k/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="90v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fkc04bq0k/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -392,7 +392,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Gal6:14">
-          <anchor source="#S155" n="93r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fwf59pn25/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="93r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fwf59pn25/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -408,7 +408,7 @@
       </div>      <!-- Galatians -->
       <div xml:id="Ephesians" type="Epistle">
         <div type="rubric" corresp="Eph1:1">
-          <anchor source="#S155" n="93v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fgt13jj1q/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="93v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fgt13jj1q/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated headpiece">
             <choice>
               <orig xml:lang="ar">
@@ -423,7 +423,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Eph1:17">
-          <anchor source="#S155" n="94r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fj131sr1n/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="94r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fj131sr1n/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
@@ -436,7 +436,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Eph2:4">
-          <anchor source="#S155" n="94v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2Fvs46502x/full/1500,/0/default.jpg"/>
+          <anchor source="#S155" n="94v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2Fvs46502x/full/1500,/0/default.jpg"/>
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
