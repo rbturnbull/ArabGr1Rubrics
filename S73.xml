@@ -756,7 +756,147 @@
             </choice>
           </head>
         </div>
+        <div type="rubric" corresp="Heb4:14">
+          <anchor source="#S73" n="74r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fns416v8p/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه فى الحدود وفى اعياد الريسا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading on <date when-custom="#Sundays">the Sundays</date> and on the <date when-custom="#Rulers">Feasts of Rulers?</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb9:1">
+          <anchor source="#S73" n="78v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fmt617r0b/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه فى تديس الكنايس ولمرتمريم</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Mary">the sanctification of the churches</date> and for <date when-custom="#Encania">St Mary</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb9:11">
+          <anchor source="#S73" n="79r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fdj041k1h/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>
+                  <w>قراه</w>
+                  <w>حد</w>
+                  <w>سته</w>
+                  <w>اعشر</w>
+                </l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Pent16Sun">the sixteenth Sunday</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb10:19">
+          <anchor source="#S73" n="81r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fzc47gz1c/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه سبعه اعشر وفى</l>
+                <l>سابع تقديس الما</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Pentecost17Sun">the seventeenth Sunday</date> and on the <date when-custom="Sanctification7">seventh of the Sanctification of Water</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb10:32">
+          <anchor source="#S73" n="81v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Ffs82643h/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه على القديسين</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading on <date when-custom="#Saints">the Saints</date>.
+              </reg>
+            </choice>
+          </head>
+        </div> 
+        <div type="rubric" corresp="Heb11:1">
+          <anchor source="#S73" n="81v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Ffs82643h/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه فى الاىىما</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#">the UNCERTAIN</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb12:1">
+          <anchor source="#S73" n="84r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fvg826f3k/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه للشهدا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading for <date when-custom="#Martyrs">the Martyrs</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb13:7">
+          <anchor source="#S73" n="86r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fct291b7s/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>يقرا فى اعياد الريسا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Rulers">the Rulers?</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Heb13:17">
+          <anchor source="#S73" n="86v" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fw584bs17/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>على الريسا ايضا</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                For <date when-custom="#Rulers">the Rulers?</date> also.
+              </reg>
+            </choice>
+          </head>
+        </div>
       </div>      <!-- Hebrews -->   
+      <div xml:id="ITimothy" type="Epistle">
+        <div type="rubric" corresp="ITim1:1">
+          <anchor source="#S73" n="87r" facs="http://127.0.0.1:8000/sinai/ark%3A%2F21198%2Fz14n0p90%2Fvf14p48b/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>هذه رساله بولس الرسول الى طيماثيوس</l>
+                <l>الاخ الرساله الاولى وهى من العدد حد اعشر</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                This is the Epistle of Paul the Apostle to Timothy
+                the brother. The first Epistle. And it is the eleventh in order.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- ITimothy -->   
     </body>
   </text>
 </TEI>
