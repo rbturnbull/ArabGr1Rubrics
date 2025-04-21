@@ -821,23 +821,3 @@
     </body>
   </text>
 </TEI>
-
-
-
-
-<!--
-        <div type="rubric" corresp="ADD_HERE">
-          <anchor source="#BLOr8612" n="ADD_HERE"/>
-          <head rend="red cross-decorated">
-            <choice>
-              <orig xml:lang="ar">
-                <l>ADD_HERE</l>
-                <l>ADD_HERE</l>
-              </orig>
-              <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#">the ADD_HERE</date>.
-              </reg>
-            </choice>
-          </head>
-        </div>
--->

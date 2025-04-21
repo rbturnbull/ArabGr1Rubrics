@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Lectionary Rubrics in Sinai ar. 73 and Paris, BnF ar. 6725</title>
+        <title>Lectionary Rubrics in Sinai ar. 73 and Paris, BnF ar. 6725, Parts III and V</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Robert Turnbull</publisher>
@@ -14,22 +14,31 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
+        <msDesc xml:id="BnF_ar_6725_V">
+          <msIdentifier>
+            <settlement>Bibliothèque nationale de France</settlement>
+            <idno>Arabe 6725, Part V</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Rom1:1–</summary>
+          </msContents>
+        </msDesc>
         <msDesc xml:id="S73">
           <msIdentifier>
             <settlement>St. Catherine's Monastery</settlement>
             <idno>Arabic 73</idno>
           </msIdentifier>
           <msContents>
-            <summary>Pauline Epistles</summary>
+            <summary>–IITim3:9a</summary>
           </msContents>
         </msDesc>
-        <msDesc xml:id="BnFar6725">
+        <msDesc xml:id="BnF_ar_6725_III">
           <msIdentifier>
             <settlement>Bibliothèque nationale de France</settlement>
-            <idno>Arabe 6725</idno>
+            <idno>Arabe 6725 Part III</idno>
           </msIdentifier>
           <msContents>
-            <summary>Pauline Epistles</summary>
+            <summary>IITim3:9b–Philemon25</summary>
           </msContents>
         </msDesc>
       </sourceDesc>
@@ -39,6 +48,47 @@
   <text>
     <body>
       <div xml:id="Romans" type="Epistle">
+        <div type="rubric" corresp="Rom1:1">
+          <anchor source="#BnF_ar_6725_V" n="21r" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/2d/75/2d758a24-3bd7-4ba2-b04b-2f068375b7b0/f52highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <head rend="red">
+            <gap reason="smudged" extent="4" unit="line"/>
+          </head>
+        </div>
+        <div type="rubric" corresp="Rom5:1">
+          <anchor source="#BnF_ar_6725_V" n="26r" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/ce/36/ce3619fc-2298-489f-8751-3826e3ca5f10/f62highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>
+                  <w>ىقرا</w>
+                  <w>فى</w>
+                  <w>الاحد</w>
+                  <w>الاول</w>
+                  <add place="above" type="interlinear" rend="red" xml:lang="ar"><w>بعد</w></add>
+                  <w>العنصره</w>
+                </l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Pent1Sun">the first Sunday [after] Pentecost.</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Rom6:3">
+          <anchor source="#BnF_ar_6725_V" n="27r" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/d0/95/d0954da3-55e9-40cd-ac2b-61e5721ea2f0/f64highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>ىقرا فى حد الثانى بعد العنصره</l>
+                <l>وثالث القلند</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Read on <date when-custom="#Pent2Sun">the second Sunday after Pentecost</date>
+                and the <date when-custom="#Epiphany">third day of Epiphany</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
         <div type="rubric" corresp="Ro8:2">
           <anchor source="#S73" n="2r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14n0p90%2Fpn784867/full/1500,/0/default.jpg"/>
           <head rend="red">
@@ -915,27 +965,80 @@
             </choice>
           </head>
         </div>
-      </div>      <!-- IITimothy -->   
-    </body>
-  </text>
-</TEI>
-
-
-
-
-<!--
-        <div type="rubric" corresp="ADD_HERE">
-          <anchor source="#S73" n="ADD_HERE" facs="ADD_HERE"/>
-          <head rend="red">
+        <div type="rubric" corresp="IITim4:1">
+          <anchor source="#BnF_ar_6725_III" n="5r" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/1f/0e/1f0ed3e8-3857-4c5f-ad98-27f21ed222dc/f20highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <head rend="black red-overwriting">
             <choice>
               <orig xml:lang="ar">
-                <l>ADD_HERE</l>
-                <l>ADD_HERE</l>
+                <l>يقرا في السبوت</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#">the ADD_HERE</date>.
+                Read on <date when-custom="#Saturdays">the Saturdays</date>.
               </reg>
             </choice>
           </head>
         </div>
--->
+      </div>      <!-- IITimothy -->   
+      <div xml:id="Titus" type="Epistle">
+        <div type="rubric" corresp="Tit1:1">
+          <anchor source="#BnF_ar_6725_III" n="6v" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/24/14/2414bf74-9a59-4efd-b533-5f34f77f6abf/f23highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>هذه رساله بولس الرسول الي طيطس</l>
+                <l>وهى من العدد ثلثه اعشر</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                This is the Epistle of Paul the Apostle to Titus.
+                And it is the thirteenth in order.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Tit2:11">
+          <anchor source="#BnF_ar_6725_III" n="8v" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/f3/84/f384e462-5986-4f94-a4ee-b593b80e4836/f27highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه لعيد قداس الما</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#SanctificationOfWater">the Feast of the Sanctification of Water</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+        <div type="rubric" corresp="Tit3:1">
+          <anchor source="#BnF_ar_6725_III" n="8v" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/f3/84/f384e462-5986-4f94-a4ee-b593b80e4836/f27highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه لثانى القلند</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Epiphany2">the second of Ephiphany</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- Titus -->
+      <div xml:id="Philemon" type="Epistle">
+        <div type="rubric" corresp="Phlm1">
+          <anchor source="#BnF_ar_6725_III" n="9v" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/b9/c4/b9c4ccf5-8531-48bd-ad18-b2aef581d87e/f29highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>هذه رساله بولس الرسول الي فليمن وهى تمام</l>
+                <l>اربعه اعشر رساله</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                This is the Epistle of Paul the Apostle to Philemon. And it completes
+                the fourteen epistles.
+              </reg>
+            </choice>
+          </head>
+        </div>
+      </div>      <!-- Philemon -->
+    </body>
+  </text>
+</TEI>

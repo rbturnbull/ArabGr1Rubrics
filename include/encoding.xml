@@ -13,6 +13,9 @@
     <rendition xml:id="black" scheme="css">
       Indicates black ink in the manuscript.
     </rendition>
+    <rendition xml:id="red-overwriting" scheme="css">
+      Indicates red ink overwriting black ink in the manuscript.
+    </rendition>
   </tagsDecl>
   <classDecl>
     <taxonomy xml:id="usage">
