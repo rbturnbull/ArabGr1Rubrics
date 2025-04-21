@@ -49,13 +49,13 @@
     <body>
       <div xml:id="Romans" type="Epistle">
         <div type="rubric" corresp="Rom1:1">
-          <anchor source="#BnF_ar_6725_V" n="21r" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/2d/75/2d758a24-3bd7-4ba2-b04b-2f068375b7b0/f52highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <anchor source="#BnF_ar_6725_V" n="21r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f52.highres"/>
           <head rend="red">
             <gap reason="smudged" extent="4" unit="line"/>
           </head>
         </div>
         <div type="rubric" corresp="Rom5:1">
-          <anchor source="#BnF_ar_6725_V" n="26r" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/ce/36/ce3619fc-2298-489f-8751-3826e3ca5f10/f62highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <anchor source="#BnF_ar_6725_V" n="26r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f62.highres"/>
           <head rend="red">
             <choice>
               <orig xml:lang="ar">
@@ -75,7 +75,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Rom6:3">
-          <anchor source="#BnF_ar_6725_V" n="27r" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/d0/95/d0954da3-55e9-40cd-ac2b-61e5721ea2f0/f64highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <anchor source="#BnF_ar_6725_V" n="27r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f64.highres"/>
           <head rend="red">
             <choice>
               <orig xml:lang="ar">
@@ -966,7 +966,7 @@
           </head>
         </div>
         <div type="rubric" corresp="IITim4:1">
-          <anchor source="#BnF_ar_6725_III" n="5r" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/1f/0e/1f0ed3e8-3857-4c5f-ad98-27f21ed222dc/f20highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <anchor source="#BnF_ar_6725_III" n="5r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f20.highres"/>
           <head rend="black red-overwriting">
             <choice>
               <orig xml:lang="ar">
@@ -981,7 +981,7 @@
       </div>      <!-- IITimothy -->   
       <div xml:id="Titus" type="Epistle">
         <div type="rubric" corresp="Tit1:1">
-          <anchor source="#BnF_ar_6725_III" n="6v" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/24/14/2414bf74-9a59-4efd-b533-5f34f77f6abf/f23highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <anchor source="#BnF_ar_6725_III" n="6v" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f23.highres"/>
           <head rend="red">
             <choice>
               <orig xml:lang="ar">
@@ -996,7 +996,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Tit2:11">
-          <anchor source="#BnF_ar_6725_III" n="8v" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/f3/84/f384e462-5986-4f94-a4ee-b593b80e4836/f27highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <anchor source="#BnF_ar_6725_III" n="8v" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f27.highres"/>
           <head rend="red">
             <choice>
               <orig xml:lang="ar">
@@ -1009,7 +1009,7 @@
           </head>
         </div>
         <div type="rubric" corresp="Tit3:1">
-          <anchor source="#BnF_ar_6725_III" n="8v" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/f3/84/f384e462-5986-4f94-a4ee-b593b80e4836/f27highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <anchor source="#BnF_ar_6725_III" n="8v" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f27.highres"/>
           <head rend="red">
             <choice>
               <orig xml:lang="ar">
@@ -1024,7 +1024,7 @@
       </div>      <!-- Titus -->
       <div xml:id="Philemon" type="Epistle">
         <div type="rubric" corresp="Phlm1">
-          <anchor source="#BnF_ar_6725_III" n="9v" facs="http://127.0.0.1:8000/media/filer_public_thumbnails/filer_public/b9/c4/b9c4ccf5-8531-48bd-ad18-b2aef581d87e/f29highres.jpg__1500x0_q85_crop_subsampling-2_upscale.jpg"/>
+          <anchor source="#BnF_ar_6725_III" n="9v" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f29.highres"/>
           <head rend="red">
             <choice>
               <orig xml:lang="ar">
