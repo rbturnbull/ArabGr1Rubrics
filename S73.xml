@@ -20,7 +20,7 @@
             <idno>Arabe 6725, Part V</idno>
           </msIdentifier>
           <msContents>
-            <summary>Rom1:1–Rom6:19</summary>
+            <summary>Ro1:1–Ro6:19</summary>
           </msContents>
         </msDesc>
         <msDesc xml:id="S73">
@@ -29,7 +29,7 @@
             <idno>Arabic 73</idno>
           </msIdentifier>
           <msContents>
-            <summary>Rom6:20–IITim3:9a</summary>
+            <summary>Ro6:20–IITim3:9a</summary>
           </msContents>
         </msDesc>
         <msDesc xml:id="BnF_ar_6725_III">
@@ -54,13 +54,13 @@
         </head>
       </div>
       <div xml:id="Romans" type="Epistle">
-        <div type="rubric" corresp="Rom1:1">
+        <div type="rubric" corresp="Ro1:1">
           <anchor source="#BnF_ar_6725_V" n="21r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f52.highres"/>
           <head rend="red headpiece">
             <gap reason="smudged" extent="4" unit="line"/>
           </head>
         </div>
-        <div type="rubric" corresp="Rom5:1">
+        <div type="rubric" corresp="Ro5:1">
           <anchor source="#BnF_ar_6725_V" n="26r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f62.highres"/>
           <head rend="red">
             <choice>
@@ -80,7 +80,7 @@
             </choice>
           </head>
         </div>
-        <div type="rubric" corresp="Rom6:3">
+        <div type="rubric" corresp="Ro6:3">
           <anchor source="#BnF_ar_6725_V" n="27r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f64.highres"/>
           <head rend="red">
             <choice>
@@ -335,7 +335,7 @@
             </choice>
           </head>
         </div>
-        <div type="rubric" corresp="ICo15:12">
+        <div type="rubric" corresp="ICor15:12">
           <anchor source="#S73" n="28v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14n0p90%2F3q93pb64/full/1500,/0/default.jpg"/>
           <head rend="red">
             <choice>
@@ -348,7 +348,7 @@
             </choice>
           </head>
         </div>
-        <div type="rubric" corresp="ICo15:19">
+        <div type="rubric" corresp="ICor15:19">
           <anchor source="#S73" n="28v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14n0p90%2F3q93pb64/full/1500,/0/default.jpg"/>
           <head rend="red">
             <choice>
@@ -443,8 +443,8 @@
         </div>
       </div>      <!-- IICorinthians -->      
       <div xml:id="Galatians" type="Epistle">
-        <div type="rubric" corresp="ADD_HERE">
-          <anchor source="#S73" n="ADD_HERE" facs="ADD_HERE"/>
+        <div type="rubric" corresp="Gal1:1">
+          <anchor source="#S73" n="42v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14n0p90%2Fsf46jp3d/full/1500,/0/default.jpg"/>
           <head rend="red">
             <choice>
               <orig xml:lang="ar">
@@ -767,7 +767,7 @@
         </div>
       </div>      <!-- IThesalonians -->   
       <div xml:id="IIThesalonians" type="Epistle">
-        <div type="rubric" corresp="IIThess1:1">
+        <div type="rubric" corresp="IIThes1:1">
           <anchor source="#S73" n="68r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14n0p90%2F6858p32g/full/1500,/0/default.jpg"/>
           <head rend="red">
             <choice>
