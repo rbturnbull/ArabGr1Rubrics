@@ -47,10 +47,16 @@
   </teiHeader>
   <text>
     <body>
+      <div type="rubric">
+        <anchor source="#BnF_ar_6725_V" n="20v" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f51.highres"/>
+        <head rend="red headpiece">
+          <gap reason="smudged" extent="1" unit="line"/>
+        </head>
+      </div>
       <div xml:id="Romans" type="Epistle">
         <div type="rubric" corresp="Rom1:1">
           <anchor source="#BnF_ar_6725_V" n="21r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f52.highres"/>
-          <head rend="red">
+          <head rend="red headpiece">
             <gap reason="smudged" extent="4" unit="line"/>
           </head>
         </div>
