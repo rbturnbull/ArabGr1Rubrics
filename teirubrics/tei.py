@@ -104,3 +104,16 @@ def write_tei(doc:ElementTree, path:Path|str) -> None:
     Path(path).parent.mkdir(parents=True, exist_ok=True)
     doc.write(str(path), encoding="utf-8", xml_declaration=True, pretty_print=True)
 
+
+def get_siglum(doc:ElementTree|Element) -> str:
+    """
+    Get the attribute of the 'n' attribute in the <title type="document"> element.
+
+    Returns an empty string if the element is not found.
+    """
+    title_statement = find_element(doc, ".//titleStmt")
+    title = find_element(title_statement, ".//title")
+    if title is None:
+        return ""
+    
+    return title.attrib.get('n', "")
