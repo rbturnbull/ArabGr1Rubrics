@@ -14,13 +14,32 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
+        <msDesc xml:id="BnF_syr_378_VIII">
+          <msIdentifier>
+            <settlement>Bibliothèque nationale de France</settlement>
+            <idno>Syr. 378, Part VIII</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Summa Theologiae Arabica, chapters 12 and 13</summary>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc material="parch">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>2 folios</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
         <msDesc xml:id="BSBArab1071">
           <msIdentifier>
             <settlement>Bayerische Staatsbibliothek</settlement>
             <idno>Arab. 1071</idno>
           </msIdentifier>
           <msContents>
-            <summary>Summa Theologiae Arabica</summary>
+            <summary>Summa Theologiae Arabica, chapters 12 and 13</summary>
           </msContents>
           <physDesc>
             <objectDesc form="codex">
