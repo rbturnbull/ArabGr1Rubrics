@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Lectionary Rubrics in Sinai ar. 155 and London, British Library, Or. 8612</title>
+        <title n="S155">Lectionary Rubrics in Sinai ar. 155 and London, British Library, Or. 8612</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Robert Turnbull</publisher>
@@ -14,6 +14,25 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
+        <msDesc xml:id="BSBArab1071">
+          <msIdentifier>
+            <settlement>Bayerische Staatsbibliothek</settlement>
+            <idno>Arab. 1071</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Summa Theologiae Arabica</summary>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc material="parch">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>4 folios</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
         <msDesc xml:id="S155">
           <msIdentifier>
             <settlement>St. Catherine's Monastery</settlement>
