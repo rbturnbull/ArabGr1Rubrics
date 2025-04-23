@@ -4,10 +4,14 @@ from pathlib import Path
 import plotly.graph_objects as go
 import typer
 from collections import defaultdict
+from jinja2 import Environment, FileSystemLoader
 
-from .tei import read_tei, find_elements, get_siglum
+from .tei import read_tei, find_elements, get_siglum, find_element, extract_text
+
 
 app = typer.Typer()
+templates = Path(__file__).parent / "templates"
+env = Environment(loader=FileSystemLoader(templates))
 
 
 @app.command()
@@ -44,9 +48,11 @@ def by_verse(
     paths:list[Path], 
     verse_list:Path=typer.Option(...),
 ):
+    rubric_template = env.get_template('rubric.html')
     tei_list = [read_tei(path) for path in paths]
     verse_list = Path(verse_list).read_text().strip().splitlines()
     data = defaultdict(dict)
+    sigla = [get_siglum(tei) for tei in tei_list]
     for tei_index, tei in enumerate(tei_list):
         siglum = get_siglum(tei)
         rubrics = find_elements(tei, ".//div[@type='rubric']")
@@ -59,5 +65,31 @@ def by_verse(
         return verse_list.index(verse_str) if verse_str in verse_list else -1
 
     verses = sorted(data.keys(), key=sort_verse)
+    rows = []
     for verse in verses:
-        print(verse, data[verse].keys())
+        row = [verse]
+        for siglum in sigla:
+            if siglum in data[verse]:
+                element = data[verse][siglum]
+                head = find_element(element, ".//head")
+                orig = find_element(head, ".//orig")
+                original_text = extract_text(orig)
+                translation_element = find_element(head, ".//reg[@type='translation']")
+                translation = extract_text(translation_element) if translation_element is not None else ""
+
+                cell = rubric_template.render(
+                    original_text=original_text,
+                    translation=translation
+                )
+            else:
+                cell = ""
+            row.append(cell)
+        rows.append(row)
+
+    table = env.get_template('table.html').render(
+        rows=rows,
+        headers=["Verse"] + sigla,
+    )
+    breakpoint()
+    with open("output.html", "w") as f:
+        f.write(table)

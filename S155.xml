@@ -262,7 +262,7 @@
                 <l>تقرا في يوم صوم القلند في القدس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#EphiphanyFast">day of the fast of Epiphany</date> in the <time when-custom="#DivineLiturgy">Divine Liturgy</time>.
+                Read on the <date when-custom="#EpiphanyFast">day of the fast of Epiphany</date> in the <time when-custom="#DivineLiturgy">Divine Liturgy</time>.
               </reg>
             </choice>
           </head>
@@ -522,7 +522,7 @@
                 <l>تقرا في يوم خامس القلند</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Epiphany5">the fifth day of Ephiphany</date>.
+                Read on <date when-custom="#Epiphany5">the fifth day of Epiphany</date>.
               </reg>
             </choice>
           </head>
@@ -710,7 +710,7 @@
                 <l>تقرا لنياحه مرتمريم ولكل انقانيا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Mary">the Dormition? of the St Mary</date> and for every <date when-custom="#Enkania">Enkania</date>.
+                Read on <date when-custom="#DormitionMary">the Dormition of St Mary</date> and for every <date when-custom="#Encaenia">Encaenia</date>.
               </reg>
             </choice>
           </head>

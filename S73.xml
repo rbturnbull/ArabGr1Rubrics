@@ -281,7 +281,7 @@
                 </l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading for <date when-custom="#Enkania"><unclear reason="smudged">Enkania</unclear></date>.
+                Reading for <date when-custom="#Encaenia"><unclear reason="smudged">Encaenia</unclear></date>.
               </reg>
             </choice>
           </head>
@@ -833,7 +833,7 @@
                 <l>قراه فى تديس الكنايس ولمرتمريم</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Mary">the sanctification of the churches</date> and for <date when-custom="#Encania">St Mary</date>.
+                Reading of <date when-custom="#Encaenia">the sanctification of the churches</date> and for <date when-custom="#DormitionMary">St Mary</date>.
               </reg>
             </choice>
           </head>
@@ -1022,7 +1022,7 @@
                 <l>قراه لثانى القلند</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Epiphany2">the second of Ephiphany</date>.
+                Reading of <date when-custom="#Epiphany2">the second of Epiphany</date>.
               </reg>
             </choice>
           </head>
