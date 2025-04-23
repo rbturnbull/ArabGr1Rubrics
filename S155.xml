@@ -14,6 +14,24 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
+        <msDesc xml:id="S155">
+          <msIdentifier>
+            <settlement>St. Catherine's Monastery</settlement>
+            <idno>Arabic 155</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Rom1:1–Eph2:9a</summary>
+          </msContents>
+        </msDesc>
+        <msDesc xml:id="BLOr8612">
+          <msIdentifier>
+            <settlement>London, British Library</settlement>
+            <idno>Or. 8612</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>Eph2:9a–IITim2:12a</summary>
+          </msContents>
+        </msDesc>
         <msDesc xml:id="BnF_syr_378_VIII">
           <msIdentifier>
             <settlement>Bibliothèque nationale de France</settlement>
@@ -51,24 +69,6 @@
               </supportDesc>
             </objectDesc>
           </physDesc>
-        </msDesc>
-        <msDesc xml:id="S155">
-          <msIdentifier>
-            <settlement>St. Catherine's Monastery</settlement>
-            <idno>Arabic 155</idno>
-          </msIdentifier>
-          <msContents>
-            <summary>Rom1:1–Eph2:9a</summary>
-          </msContents>
-        </msDesc>
-        <msDesc xml:id="BLOr8612">
-          <msIdentifier>
-            <settlement>London, British Library</settlement>
-            <idno>Or. 8612</idno>
-          </msIdentifier>
-          <msContents>
-            <summary>Eph2:9a–IITim2:12a</summary>
-          </msContents>
         </msDesc>
       </sourceDesc>
     </fileDesc>
