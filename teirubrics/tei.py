@@ -41,7 +41,9 @@ def extract_text(node:Element, include_tail:bool=True) -> str:
 def read_tei(path:Path) -> ElementTree:
     parser = ET.XMLParser(remove_blank_text=True)
     with open(path, 'r') as f:
-        return ET.parse(f, parser)
+        tree = ET.parse(f, parser)
+        tree.xinclude()  # resolves xi:include
+        return tree
 
 
 def find_element(doc:ElementTree|Element, xpath:str) -> Element|None:
