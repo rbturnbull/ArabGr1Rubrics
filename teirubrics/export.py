@@ -4,7 +4,7 @@ from jinja2 import Environment, FileSystemLoader
 from .tei import find_element, extract_text
 
 
-def export_data(data, key_name, sigla, output_path:Path):
+def export_data(data, key_name, sigla, output_path:Path, display_verse=True):
     templates = Path(__file__).parent / "templates"
     env = Environment(loader=FileSystemLoader(templates))
     rubric_template = env.get_template('rubric.html')
@@ -23,7 +23,8 @@ def export_data(data, key_name, sigla, output_path:Path):
 
                 cell = rubric_template.render(
                     original_text=original_text,
-                    translation=translation
+                    translation=translation,
+                    verse = element.attrib.get("corresp", "") if display_verse else "",
                 )
             else:
                 cell = ""

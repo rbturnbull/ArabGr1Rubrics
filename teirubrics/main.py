@@ -117,4 +117,5 @@ def by_verse(
         key_name="Verse",
         sigla=sigla,
         output_path=Path("output.html"),
+        display_verse=False,
     )
