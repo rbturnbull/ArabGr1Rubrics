@@ -234,7 +234,7 @@
                 <l>تقرا فى حد الحروم</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#LentProhibitionsSunday">Sunday of Prohibitions</date>.
+                Read on the <date when-custom="#Prohibitions">Sunday of Prohibitions</date>.
               </reg>
             </choice>
           </head>
@@ -289,7 +289,7 @@
                 <l>تقرا في اعياد الرسل والانبيا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#ApostlesProphets">Feasts of the Apostles and the Prophets</date>.
+                Read on the Feasts of the <date when-custom="#Apostles">Apostles</date> and the <date when-custom="#Apostles">Prophets</date>.
               </reg>
             </choice>
           </head>
@@ -509,7 +509,7 @@
                 <l>للحد العاشر</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                For <date when-custom="#Pent10Sunday">the tenth</date>.
+                For <date when-custom="#Pent10Sun">the tenth</date>.
               </reg>
             </choice>
           </head>
@@ -578,7 +578,7 @@
                 <l>العاشر</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Pent10Sunday">the tenth Sunday</date>.
+                Read on <date when-custom="#Pent10Sun">the tenth Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -591,7 +591,7 @@
                 <l>تقرا في حد حد عشر</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Pent11Sunday">the eleventh Sunday</date>.
+                Read on <date when-custom="#Pent11Sun">the eleventh Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -609,7 +609,7 @@
               </orig>
               <reg type="translation" xml:lang="en">
                 The Epistle of St Paul [to] the people of Colossae. Read on
-                <date when-custom="#Pent12Sunday">the twelfth</date>.
+                <date when-custom="#Pent12Sun">the twelfth</date>.
               </reg>
             </choice>
           </head>
@@ -622,7 +622,7 @@
                 <l>تقرا في حد ثلثه اعشر</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Pent13Sunday">the 13th Sunday</date>.
+                Read on <date when-custom="#Pent13Sun">the 13th Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -697,7 +697,7 @@
               </orig>
               <reg type="translation" xml:lang="en">
                 Read on 
-                <date when-custom="#Pent13Sunday">the thirteenth Sunday</date> and read on <date when-custom="#GreatFriday">Great Friday</date>.
+                <date when-custom="#Pent13Sun">the thirteenth Sunday</date> and read on <date when-custom="#GreatFriday">Great Friday</date>.
               </reg>
             </choice>
           </head>
@@ -724,7 +724,7 @@
                 <l>وللجمعه الكبيره</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Pent13Sunday">the thirteenth Sunday</date>
+                Read on <date when-custom="#Pent13Sun">the thirteenth Sunday</date>
                 and for <date when-custom="#GreatFriday">Great Friday</date>.
               </reg>
             </choice>
@@ -739,7 +739,7 @@
                 <l>الكبيره</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Pent14Sunday">the fourteenth Sunday</date>. Also for <date when-custom="#GreatFriday">Great Friday</date>.
+                Read on <date when-custom="#Pent14Sun">the fourteenth Sunday</date>. Also for <date when-custom="#GreatFriday">Great Friday</date>.
               </reg>
             </choice>
           </head>
@@ -821,7 +821,7 @@
                 <l>الكنيس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Accension">the Accension of Christ</date>. And for the <date when-custom="#SanctificationChurch">sanctification of the church</date>.
+                Read on <date when-custom="#Ascension">the Ascension of Christ</date>. And for the <date when-custom="#SanctificationChurch">sanctification of the church</date>.
               </reg>
             </choice>
           </head>

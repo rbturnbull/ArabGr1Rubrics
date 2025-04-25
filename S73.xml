@@ -221,7 +221,7 @@
                 <l>قراه فى الحروم الاول</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading on <date when-custom="#LentProhibitionsSunday">the first Prohibitions</date>.
+                Reading on <date when-custom="#Prohibitions">the first Prohibitions</date>.
               </reg>
             </choice>
           </head>
@@ -465,7 +465,7 @@
                 <l>يقرا ثاني الميلاد</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read <date when-custom="#NativitySecond">the second of Nativity</date>.
+                Read <date when-custom="#Nativity2">the second of Nativity</date>.
               </reg>
             </choice>
           </head>
@@ -479,7 +479,7 @@
                 <l>وفى عيد القير</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Nativity">the Nativity</date> and on <date when-custom="#Water4">fourth of the Sanctification of Water</date> 
+                Read on <date when-custom="#Nativity">the Nativity</date> and on <date when-custom="#Epiphany4">fourth of the Sanctification of Water</date> 
                 and on <date when-custom="#WaxTapers">the Feast of the Wax-Tapers</date>.
               </reg>
             </choice>
@@ -598,7 +598,7 @@
                 <l>قراه خامس قداس الما</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Water5">the fifth of the Sanctification of Water</date>.
+                Reading of <date when-custom="#Epiphany5">the fifth of the Sanctification of Water</date>.
               </reg>
             </choice>
           </head>
@@ -611,7 +611,7 @@
                 <l>قراه على الاىا؟ المعلمين</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#">the ?? of the teachers</date>.
+                Reading of <date when-custom="#Unknown">the ?? of the teachers</date>.
               </reg>
             </choice>
           </head>
@@ -729,8 +729,8 @@
                 <l>قراه فى الاحد اربعه اعشر وفى سادس قداس الما</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#">the fourteenth Sunday</date>
-                and the <date when-custom="SanctificationWater6">sixth of the Sanctification of Water</date>.
+                Reading of <date when-custom="#Pent14Sun">the fourteenth Sunday</date>
+                and the <date when-custom="#Epiphany6">sixth of the Sanctification of Water</date>.
               </reg>
             </choice>
           </head>
@@ -865,7 +865,7 @@
                 <l>سابع تقديس الما</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Pentecost17Sun">the seventeenth Sunday</date> and on the <date when-custom="Sanctification7">seventh of the Sanctification of Water</date>.
+                Reading of <date when-custom="#Pent17Sun">the seventeenth Sunday</date> and on the <date when-custom="#Epiphany7">seventh of the Sanctification of Water</date>.
               </reg>
             </choice>
           </head>
@@ -891,7 +891,7 @@
                 <l>قراه فى الاىىما</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#">the UNCERTAIN</date>.
+                Reading of <date when-custom="#Unknown">the UNCERTAIN</date>.
               </reg>
             </choice>
           </head>
@@ -966,7 +966,7 @@
               <reg type="translation" xml:lang="en">
                 This is the second Epistle of Paul the Apostle to Timothy his disciple.
                 And it is the twelfth in order. 
-                Read on <date when-custom="SanctificationWater8">the eighth of the Sanctification of Water</date>.
+                Read on <date when-custom="Epiphany8">the eighth of the Sanctification of Water</date>.
               </reg>
             </choice>
           </head>
@@ -1009,7 +1009,7 @@
                 <l>قراه لعيد قداس الما</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#SanctificationOfWater">the Feast of the Sanctification of Water</date>.
+                Reading of <date when-custom="#Epiphany">the Feast of the Sanctification of Water</date>.
               </reg>
             </choice>
           </head>

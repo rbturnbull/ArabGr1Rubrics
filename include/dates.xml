@@ -1,6 +1,6 @@
 <taxonomy xml:id="calendar">
   <category xml:id="Pent1Sun">
-    <catDesc>First Sunday after Pentecost</catDesc>
+    <catDesc>First Sunday after Pentecost (Bright Sunday)</catDesc>
   </category>
   <category xml:id="Pent2Sun">
     <catDesc>Second Sunday after Pentecost</catDesc>
@@ -14,16 +14,79 @@
   <category xml:id="Pent5Sun">
     <catDesc>Fifth Sunday after Pentecost</catDesc>
   </category>
+  <category xml:id="Ascension">
+    <catDesc>Ascension</catDesc>
+  </category>
   <category xml:id="Pent6Sun">
     <catDesc>Sixth Sunday after Pentecost</catDesc>
   </category>
   <category xml:id="Pent7Sun">
     <catDesc>Seventh Sunday after Pentecost</catDesc>
   </category>
-  <category xml:id="EpiphanyFast">
-    <catDesc>Fast of Epiphany.</catDesc>
+  <category xml:id="Pent8Sun">
+    <catDesc>Eighth Sunday after Pentecost</catDesc>
   </category>
-  <category xml:id="LentProhibitionsSunday">
+  <category xml:id="Pent9Sun">
+    <catDesc>Ninth Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent10Sun">
+    <catDesc>Tenth Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent11Sun">
+    <catDesc>Eleventh Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent12Sun">
+    <catDesc>Twelfth Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent13Sun">
+    <catDesc>Thirteenth Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent14Sun">
+    <catDesc>Fourteenth Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent15Sun">
+    <catDesc>Fifteenth Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent16Sun">
+    <catDesc>Sixteenth Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Pent17Sun">
+    <catDesc>Seventeenth Sunday after Pentecost</catDesc>
+  </category>
+  <category xml:id="Cross">
+    <catDesc>Cross</catDesc>
+  </category>    
+  <category xml:id="CrossFriday">
+    <catDesc>CrossFriday</catDesc>
+  </category>    
+  <category xml:id="EpiphanyFast">
+    <catDesc>Fast of Epiphany</catDesc>
+  </category>
+  <category xml:id="Epiphany">
+    <catDesc>Epiphany</catDesc>
+  </category>
+  <category xml:id="Epiphany2">
+    <catDesc>Second day of Epiphany</catDesc>
+  </category>
+  <category xml:id="Epiphany3">
+    <catDesc>Third day of Epiphany</catDesc>
+  </category>  
+  <category xml:id="Epiphany4">
+    <catDesc>Fourth day of Epiphany</catDesc>
+  </category>
+  <category xml:id="Epiphany5">
+    <catDesc>Fifth day of Epiphany</catDesc>
+  </category>
+  <category xml:id="Epiphany6">
+    <catDesc>Sixth day of Epiphany</catDesc>
+  </category>
+  <category xml:id="Epiphany7">
+    <catDesc>Seventh day of Epiphany</catDesc>
+  </category>
+  <category xml:id="Epiphany8">
+    <catDesc>Eighth day of Epiphany</catDesc>
+  </category>
+  <category xml:id="Prohibitions">
     <catDesc>Sunday of the Prohibitions</catDesc>
   </category>
   <category xml:id="Lent1Sun">
@@ -32,47 +95,59 @@
   <category xml:id="Lent2Sun">
     <catDesc>Second Sunday of Lent</catDesc>
   </category>
-  <category xml:id="Martyrs">
-    <catDesc>Feasts of the Martyrs</catDesc>
+  <category xml:id="Lent3Sun">
+    <catDesc>Third Sunday of Lent</catDesc>
   </category>
-  <category xml:id="ApostlesProphets">
-    <catDesc>Feasts of the Apostles Prophets</catDesc>
-  </category>  
+  <category xml:id="Lent4Sun">
+    <catDesc>Fourth Sunday of Lent</catDesc>
+  </category>
+  <category xml:id="Lent5Sun">
+    <catDesc>Fifth Sunday of Lent</catDesc>
+  </category>
+  <category xml:id="Lent6Sun">
+    <catDesc>Sixth Sunday of Lent</catDesc>
+  </category>
+  <category xml:id="Lent7Friday">
+    <catDesc>Seventh Friday of Lent</catDesc>
+  </category>
+  <category xml:id="Lazarus">
+    <catDesc>Lazarus Saturday</catDesc>
+  </category>
+  <category xml:id="PalmSunday">
+    <catDesc>Palm Sunday</catDesc>
+  </category>
   <category xml:id="GreatThursday">
     <catDesc>Great Thursday (Maundy Thursday)</catDesc>
   </category>  
-  <category xml:id="Pascha">
-    <catDesc>Pascha (Easter) Sunday</catDesc>
-  </category>  
-  <category xml:id="DivineLiturgy">
-    <catDesc>The Divine Liturgy (Mass)</catDesc>
-  </category>  
-  <category xml:id="Dead">
-    <catDesc>Dead</catDesc>
-  </category>  
-  <category xml:id="Morning">
-    <catDesc>Morning</catDesc>
-  </category>  
-  <category xml:id="WaxTapers">
-    <catDesc>WaxTapers</catDesc>
-  </category>  
-  <category xml:id="Nativity">
-    <catDesc>Nativity</catDesc>
-  </category>    
-  <category xml:id="Cross">
-    <catDesc>Cross</catDesc>
-  </category>    
-  <category xml:id="PalmSunday">
-    <catDesc>Palm Sunday</catDesc>
-  </category>    
-  <category xml:id="Epiphany5">
-    <catDesc>Fifth day of Epiphany</catDesc>
-  </category>
   <category xml:id="GreatFriday">
     <catDesc>Great Friday (Good Friday)</catDesc>
   </category>
   <category xml:id="GreatSaturday">
     <catDesc>Great Saturday (Holy Saturday)</catDesc>
+  </category>
+  <category xml:id="Pascha">
+    <catDesc>Pascha (Easter) Sunday</catDesc>
+  </category>  
+  <category xml:id="Apostles">
+    <catDesc>Feasts of the Apostles</catDesc>
+  </category>  
+  <category xml:id="Prophets">
+    <catDesc>Feasts of the Prophets</catDesc>
+  </category>  
+  <category xml:id="WaxTapers">
+    <catDesc>WaxTapers</catDesc>
+  </category>  
+  <category xml:id="NativityFast">
+    <catDesc>Fast of the Nativity</catDesc>
+  </category>
+  <category xml:id="Nativity">
+    <catDesc>Nativity</catDesc>
+  </category>    
+  <category xml:id="Nativity2">
+    <catDesc>The second day of Nativity</catDesc>
+  </category>
+  <category xml:id="Nativity3">
+    <catDesc>The third day of Nativity</catDesc>
   </category>
   <category xml:id="StBasil">
     <catDesc>Feast of Saint Basil the Great</catDesc>
@@ -80,5 +155,49 @@
   <category xml:id="MartyrsSaturday">
     <catDesc>Saturday on the Martyrs</catDesc>
   </category>
-  
+  <category xml:id="FortyMartyrs">
+    <catDesc>Forty Martyrs</catDesc>
+  </category>
+  <category xml:id="Martyrs">
+    <catDesc>Feasts of the Martyrs</catDesc>
+  </category>
+  <category xml:id="DormitionMary">
+    <catDesc>The Dormition of Mary</catDesc>
+  </category>
+  <category xml:id="Encaenia">
+    <catDesc>Encaenia</catDesc>
+  </category>
+  <category xml:id="Dead">
+    <catDesc>Dead</catDesc>
+  </category>    
+  <category xml:id="Righteous">
+    <catDesc>Righteous</catDesc>
+  </category>
+  <category xml:id="DivineLiturgy">
+    <catDesc>The Divine Liturgy (Mass)</catDesc>
+  </category>  
+  <category xml:id="Morning">
+    <catDesc>Morning</catDesc>
+  </category>  
+  <category xml:id="SanctificationChurch">
+    <catDesc>Sanctification Church</catDesc>
+  </category>
+  <category xml:id="JohnBaptist">
+    <catDesc>John the Baptist</catDesc>
+  </category>
+  <category xml:id="Sundays">
+    <catDesc>Sundays</catDesc>
+  </category>
+  <category xml:id="Saturdays">
+    <catDesc>Saturdays</catDesc>
+  </category>
+  <category xml:id="Rulers">
+    <catDesc>Rulers</catDesc>
+  </category>
+  <category xml:id="Saints">
+    <catDesc>Saints</catDesc>
+  </category>
+  <category xml:id="Unknown">
+    <catDesc>Unknown</catDesc>
+  </category>
 </taxonomy>

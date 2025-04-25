@@ -56,7 +56,7 @@ def by_date(
             for date_element in date_elements:
                 date_id = date_element.attrib['when-custom']
                 if date_id.startswith("#"):
-                    date_id = date_id[:]
+                    date_id = date_id[1:]
                 data[date_id][siglum] = rubric
 
                 if date_id not in data:
@@ -75,7 +75,10 @@ def by_date(
     
     def sort_by_date(item):
         date = item[0]
-        return date_rank[date] if date in date_rank else -1
+        if date not in date_rank:
+            print(f"Date '{date}' not found")
+            return -1
+        return date_rank[date]
 
     data = dict(sorted(data.items(), key=sort_by_date))
     export_data(
