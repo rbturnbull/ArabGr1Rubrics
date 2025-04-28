@@ -14,7 +14,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <msDesc xml:id="BnF_ar_6725_V">
+        <msDesc xml:id="BnF_ar_6725_V" n="BnF ar. 6725/V">
           <msIdentifier>
             <settlement>Bibliothèque nationale de France</settlement>
             <idno>arabe 6725, Part V</idno>
@@ -343,7 +343,7 @@
                 <l>قراه على الموتا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading for <date when-custom="#Dead">the Dead</date>.
+                Reading for <date when-custom="#Reposed">the Dead</date>.
               </reg>
             </choice>
           </head>
@@ -356,7 +356,7 @@
                 <l>على الموتا ايضا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                For <date when-custom="#Dead">the Dead</date> also.
+                For <date when-custom="#Reposed">the Dead</date> also.
               </reg>
             </choice>
           </head>
@@ -369,7 +369,7 @@
                 <l>على الموتا ايضا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                For <date when-custom="#Dead">the Dead</date> also.
+                For <date when-custom="#Reposed">the Dead</date> also.
               </reg>
             </choice>
           </head>
@@ -608,10 +608,10 @@
           <head rend="red">
             <choice>
               <orig xml:lang="ar">
-                <l>قراه على الاىا؟ المعلمين</l>
+                <l>قراه على الابا المعلمين</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Unknown">the ?? of the teachers</date>.
+                Reading of <date when-custom="#TeachingFathers">the Teaching Fathers</date>.
               </reg>
             </choice>
           </head>
@@ -760,7 +760,7 @@
                 <l>قراه للموتا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading for <date when-custom="#Dead">the Dead</date>.
+                Reading for <date when-custom="#Reposed">the Dead</date>.
               </reg>
             </choice>
           </head>

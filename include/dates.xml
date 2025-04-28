@@ -110,9 +110,6 @@
   <category xml:id="Lent7Friday">
     <catDesc>Seventh Friday of Lent</catDesc>
   </category>
-  <category xml:id="Lazarus">
-    <catDesc>Lazarus Saturday</catDesc>
-  </category>
   <category xml:id="PalmSunday">
     <catDesc>Palm Sunday</catDesc>
   </category>
@@ -135,7 +132,7 @@
     <catDesc>Feasts of the Prophets</catDesc>
   </category>  
   <category xml:id="WaxTapers">
-    <catDesc>WaxTapers</catDesc>
+    <catDesc>Feast of Wax-Tapers (i.e. Candlemas)</catDesc>
   </category>  
   <category xml:id="NativityEve">
     <catDesc>Eve of the Nativity</catDesc>
@@ -152,27 +149,18 @@
   <category xml:id="StBasil">
     <catDesc>Feast of Saint Basil the Great</catDesc>
   </category>
-  <category xml:id="MartyrsSaturday">
-    <catDesc>Saturday on the Martyrs</catDesc>
-  </category>
   <category xml:id="FortyMartyrs">
     <catDesc>Forty Martyrs</catDesc>
   </category>
   <category xml:id="Martyrs">
     <catDesc>Feasts of the Martyrs</catDesc>
   </category>
-  <category xml:id="DormitionMary">
-    <catDesc>The Dormition of Mary</catDesc>
-  </category>
   <category xml:id="Encaenia">
     <catDesc>Encaenia</catDesc>
   </category>
-  <category xml:id="Dead">
-    <catDesc>Dead</catDesc>
+  <category xml:id="Reposed">
+    <catDesc>Reposed</catDesc>
   </category>    
-  <category xml:id="Righteous">
-    <catDesc>Righteous</catDesc>
-  </category>
   <category xml:id="DivineLiturgy">
     <catDesc>The Divine Liturgy (Mass)</catDesc>
   </category>  
@@ -191,19 +179,31 @@
   <category xml:id="StStephen">
     <catDesc>St Stephen</catDesc>
   </category>
+  <category xml:id="AllSaints">
+    <catDesc>All Saints</catDesc>
+  </category>
+  <category xml:id="Hierarchs">
+    <catDesc>Hierarchs</catDesc>
+  </category>
   <category xml:id="Sundays">
     <catDesc>Sundays</catDesc>
   </category>
   <category xml:id="Saturdays">
     <catDesc>Saturdays</catDesc>
   </category>
-  <category xml:id="Hierarchs">
-    <catDesc>Hierarchs</catDesc>
+  <category xml:id="MartyrsSaturday">
+    <catDesc>Saturday on the Martyrs</catDesc>
   </category>
-  <category xml:id="AllSaints">
-    <catDesc>All Saints</catDesc>
+  <category xml:id="Lazarus">
+    <catDesc>Lazarus Saturday</catDesc>
   </category>
-  <category xml:id="Unknown">
-    <catDesc>Unknown</catDesc>
+  <category xml:id="Righteous">
+    <catDesc>Righteous</catDesc>
+  </category>
+  <category xml:id="DormitionMary">
+    <catDesc>The Dormition of Mary</catDesc>
+  </category>
+  <category xml:id="TeachingFathers">
+    <catDesc>The Teaching Fathers</catDesc>
   </category>
 </taxonomy>

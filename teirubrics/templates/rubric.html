@@ -7,3 +7,7 @@
 {% if translation %}
 {{ translation }}
 {% endif %}
+{% if folio %}
+<br>
+{{ source }} {% if facs %}<a href='{{ facs }}'>{{ folio }}</a>{% else %}{{ folio }}{% endif %}
+{% endif %}

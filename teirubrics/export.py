@@ -4,7 +4,7 @@ from jinja2 import Environment, FileSystemLoader
 from .tei import find_element, extract_text
 
 
-def export_data(data, key_name, sigla, output_path:Path, display_verse=True):
+def export_data(data, key_name, sigla, output_path:Path, display_verse=True, display_folio=True):
     templates = Path(__file__).parent / "templates"
     env = Environment(loader=FileSystemLoader(templates))
     rubric_template = env.get_template('rubric.html')
@@ -17,15 +17,27 @@ def export_data(data, key_name, sigla, output_path:Path, display_verse=True):
                 items = []
                 for element in data[key][siglum]:
                     head = find_element(element, ".//head")
+                    if head is None:
+                        continue
                     orig = find_element(head, ".//orig")
                     original_text = extract_text(orig)
                     translation_element = find_element(head, ".//reg[@type='translation']")
                     translation = extract_text(translation_element) if translation_element is not None else ""
 
+                    anchor = find_element(element, ".//anchor")
+                    facs = anchor.attrib.get("facs", "") if anchor is not None else ""
+                    source = anchor.attrib.get("source", "") if anchor is not None else ""
+                    if source.startswith("#"):
+                        source = source[1:]
+                    folio = anchor.attrib.get("n", "") if anchor is not None else ""
+
                     item = rubric_template.render(
                         original_text=original_text,
                         translation=translation,
                         verse = element.attrib.get("corresp", "") if display_verse else "",
+                        facs=facs if display_folio else "",
+                        source=source if display_folio else "",
+                        folio=folio if display_folio else "",
                     )
                     items.append(item)
                 cell = "<hr>\n".join(items)

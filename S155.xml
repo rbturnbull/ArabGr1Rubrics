@@ -32,7 +32,7 @@
             <summary>Eph2:9a–IITim2:12a</summary>
           </msContents>
         </msDesc>
-        <msDesc xml:id="BnF_syr_378_VIII">
+        <msDesc xml:id="BnF_syr_378_VIII" n="BnF syr. 378/VIII">
           <msIdentifier>
             <settlement>Bibliothèque nationale de France</settlement>
             <idno>Syr. 378, Part VIII</idno>
@@ -78,7 +78,7 @@
     <body>
       <div xml:id="Romans" type="Epistle">
         <div type="rubric" corresp="Ro1:1">
-          <anchor source="#S155" n="39r" facs="http://localhost:8000/sinai/ark%3A%2F21198%2Fz1bs09w9%2F2t41720x/full/1500,/0/default.jpg" />
+          <anchor source="#S155" n="39r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs09w9%2F2t41720x/full/1500,/0/default.jpg" />
           <head rend="red cross-decorated headpiece">
             <choice>
               <orig xml:lang="ar">
@@ -316,7 +316,7 @@
                 <l>للموتا تقرا في ذكرهم</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                For <date when-custom="#Dead">the dead</date>, read on their remembrance.
+                For <date when-custom="#Reposed">the dead</date>, read on their remembrance.
               </reg>
             </choice>
           </head>
@@ -329,7 +329,7 @@
                 <l>للموتا ايضا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                For <date when-custom="#Dead">the dead</date> also.
+                For <date when-custom="#Reposed">the dead</date> also.
               </reg>
             </choice>
           </head>
@@ -342,7 +342,7 @@
                 <l>تقرا ايضا للموتا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read also for <date when-custom="#Dead">the dead</date>.
+                Read also for <date when-custom="#Reposed">the dead</date>.
               </reg>
             </choice>
           </head>
@@ -651,7 +651,7 @@
                 <l>تقرا علي الموتا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read over <date when-custom="#Dead">the dead</date>.
+                Read over <date when-custom="#Reposed">the dead</date>.
               </reg>
             </choice>
           </head>

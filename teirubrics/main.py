@@ -48,17 +48,8 @@ def by_date(
     tei_list = [read_tei(path) for path in paths]
     data = defaultdict(lambda: defaultdict(list))
     sigla = [get_siglum(tei) for tei in tei_list]
-    for tei in tei_list:
-        siglum = get_siglum(tei)
-        rubrics = find_elements(tei, ".//div[@type='rubric']")
-        for rubric in rubrics:
-            date_elements = find_elements(rubric, ".//date")
-            for date_element in date_elements:
-                date_id = date_element.attrib['when-custom']
-                if date_id.startswith("#"):
-                    date_id = date_id[1:]
-                data[date_id][siglum].append(rubric)
-    
+
+    tei = tei_list[0]
     calendar = tei.find('.//taxonomy[@xml:id="calendar"]', namespaces={'xml': 'http://www.w3.org/XML/1998/namespace'})
     date_definitions = find_elements(calendar, ".//category")
     date_dict = dict()
@@ -68,7 +59,19 @@ def by_date(
         date_name = extract_text(cat_description) or date_id
         date_dict[date_id] = date_name
 
-    date_rank = { date_id:index for index, date_id in enumerate(date_dict) }
+    for tei in tei_list:
+        siglum = get_siglum(tei)
+        rubrics = find_elements(tei, ".//div[@type='rubric']")
+        for rubric in rubrics:
+            date_elements = find_elements(rubric, ".//date")
+            for date_element in date_elements:
+                date_id = date_element.attrib['when-custom']
+                if date_id.startswith("#"):
+                    date_id = date_id[1:]
+                date_name = date_dict.get(date_id, date_id)
+                data[date_name][siglum].append(rubric)
+    
+    date_rank = { date_name:index for index, date_name in enumerate(date_dict.values()) }
     
     def sort_by_date(item):
         date = item[0]
@@ -101,7 +104,7 @@ def by_verse(
         rubrics = find_elements(tei, ".//div[@type='rubric']")
         for rubric in rubrics:
             verse = rubric.attrib.get("corresp", "")
-            data[verse][siglum] = rubric
+            data[verse][siglum] = [rubric]
     
     def sort_by_verse(item):
         verse = item[0]
