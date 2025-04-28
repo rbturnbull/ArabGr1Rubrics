@@ -234,7 +234,7 @@
                 <l>تقرا فى حد الحروم</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#Prohibitions">Sunday of Prohibitions</date>.
+                Read on the <date when-custom="#Meatfare">Sunday of Prohibitions</date>.
               </reg>
             </choice>
           </head>
@@ -262,7 +262,8 @@
                 <l>تقرا في يوم صوم القلند في القدس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#EpiphanyFast">day of the fast of Epiphany</date> in the <time when-custom="#DivineLiturgy">Divine Liturgy</time>.
+                Read on the <date when-custom="#EpiphanyEve">day of the Fast of Kalends</date>
+                [and] <date when-custom="#Epiphany">in the <time when-custom="#DivineLiturgy">Divine Liturgy</time></date>.
               </reg>
             </choice>
           </head>
@@ -289,7 +290,7 @@
                 <l>تقرا في اعياد الرسل والانبيا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the Feasts of the <date when-custom="#Apostles">Apostles</date> and the <date when-custom="#Apostles">Prophets</date>.
+                Read on the Feasts of the <date when-custom="#Apostles">Apostles</date> and the <date when-custom="#Prophets">Prophets</date>.
               </reg>
             </choice>
           </head>
@@ -496,7 +497,7 @@
                 <l>للحد التاسع</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read for <date when-custom="#Pent8Sun">the eighth</date>.
+                Read for <date when-custom="#Pent9Sun">the ninth Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -509,7 +510,7 @@
                 <l>للحد العاشر</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                For <date when-custom="#Pent10Sun">the tenth</date>.
+                For <date when-custom="#Pent10Sun">the tenth Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -522,7 +523,7 @@
                 <l>تقرا في يوم خامس القلند</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Epiphany5">the fifth day of Epiphany</date>.
+                Read on <date when-custom="#Epiphany5">the fifth day of Kalends</date>.
               </reg>
             </choice>
           </head>
@@ -622,7 +623,7 @@
                 <l>تقرا في حد ثلثه اعشر</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Pent13Sun">the 13th Sunday</date>.
+                Read on <date when-custom="#Pent13Sun">the thirteenth Sunday</date>.
               </reg>
             </choice>
           </head>
@@ -681,7 +682,7 @@
                 <l>في القدس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                The Epistle of St Paul to the Hebrews. Read on the <date when-custom="#NativityFast">fast of the Nativity</date>
+                The Epistle of St Paul to the Hebrews. Read on the <date when-custom="#NativityEve">Fast of the Nativity</date>
                 in the <time when-custom="#DivineLiturgy">Divine Liturgy</time>.
               </reg>
             </choice>
@@ -807,7 +808,7 @@
                 <l>فى ذكر مر اسطفنس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                On <date when-custom="#Lazarus">the remembrance of St Stephen</date>.
+                On <date when-custom="#StStephen">the remembrance of St Stephen</date>.
               </reg>
             </choice>
           </head>
@@ -821,7 +822,7 @@
                 <l>الكنيس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Ascension">the Ascension of Christ</date>. And for the <date when-custom="#SanctificationChurch">sanctification of the church</date>.
+                Read on <date when-custom="#Ascension">the Ascension of Christ</date>. And for the <date when-custom="#Encaenia">sanctification of the church</date>.
               </reg>
             </choice>
           </head>

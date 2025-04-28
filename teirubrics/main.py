@@ -46,7 +46,7 @@ def by_date(
     paths:list[Path], 
 ):
     tei_list = [read_tei(path) for path in paths]
-    data = defaultdict(dict)
+    data = defaultdict(lambda: defaultdict(list))
     sigla = [get_siglum(tei) for tei in tei_list]
     for tei in tei_list:
         siglum = get_siglum(tei)
@@ -57,10 +57,7 @@ def by_date(
                 date_id = date_element.attrib['when-custom']
                 if date_id.startswith("#"):
                     date_id = date_id[1:]
-                data[date_id][siglum] = rubric
-
-                if date_id not in data:
-                    data[date_id] = {}
+                data[date_id][siglum].append(rubric)
     
     calendar = tei.find('.//taxonomy[@xml:id="calendar"]', namespaces={'xml': 'http://www.w3.org/XML/1998/namespace'})
     date_definitions = find_elements(calendar, ".//category")
