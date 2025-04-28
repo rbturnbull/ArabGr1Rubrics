@@ -1,6 +1,6 @@
 <taxonomy xml:id="calendar">
   <category xml:id="Pent1Sun">
-    <catDesc>First Sunday after Pentecost (Bright Sunday)</catDesc>
+    <catDesc>First Sunday after Pentecost</catDesc>
   </category>
   <category xml:id="Pent2Sun">
     <catDesc>Second Sunday after Pentecost</catDesc>
@@ -56,32 +56,32 @@
   <category xml:id="CrossFriday">
     <catDesc>CrossFriday</catDesc>
   </category>    
-  <category xml:id="EpiphanyEve">
-    <catDesc>Fast of Epiphany</catDesc>
+  <category xml:id="TheophanyEve">
+    <catDesc>Fast of Theophany</catDesc>
   </category>
-  <category xml:id="Epiphany">
-    <catDesc>Epiphany</catDesc>
+  <category xml:id="Theophany">
+    <catDesc>Theophany</catDesc>
   </category>
-  <category xml:id="Epiphany2">
-    <catDesc>Second day of Epiphany</catDesc>
+  <category xml:id="Theophany2">
+    <catDesc>Second day of Theophany</catDesc>
   </category>
-  <category xml:id="Epiphany3">
-    <catDesc>Third day of Epiphany</catDesc>
+  <category xml:id="Theophany3">
+    <catDesc>Third day of Theophany</catDesc>
   </category>  
-  <category xml:id="Epiphany4">
-    <catDesc>Fourth day of Epiphany</catDesc>
+  <category xml:id="Theophany4">
+    <catDesc>Fourth day of Theophany</catDesc>
   </category>
-  <category xml:id="Epiphany5">
-    <catDesc>Fifth day of Epiphany</catDesc>
+  <category xml:id="Theophany5">
+    <catDesc>Fifth day of Theophany</catDesc>
   </category>
-  <category xml:id="Epiphany6">
-    <catDesc>Sixth day of Epiphany</catDesc>
+  <category xml:id="Theophany6">
+    <catDesc>Sixth day of Theophany</catDesc>
   </category>
-  <category xml:id="Epiphany7">
-    <catDesc>Seventh day of Epiphany</catDesc>
+  <category xml:id="Theophany7">
+    <catDesc>Seventh day of Theophany</catDesc>
   </category>
-  <category xml:id="Epiphany8">
-    <catDesc>Eighth day of Epiphany</catDesc>
+  <category xml:id="Theophany8">
+    <catDesc>Eighth day of Theophany</catDesc>
   </category>
   <category xml:id="Meatfare">
     <catDesc>Meatfare Sunday</catDesc>
@@ -197,8 +197,8 @@
   <category xml:id="Lazarus">
     <catDesc>Lazarus Saturday</catDesc>
   </category>
-  <category xml:id="Righteous">
-    <catDesc>Righteous</catDesc>
+  <category xml:id="Venerables">
+    <catDesc>Venerables</catDesc>
   </category>
   <category xml:id="DormitionMary">
     <catDesc>The Dormition of Mary</catDesc>

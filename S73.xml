@@ -90,7 +90,7 @@
               </orig>
               <reg type="translation" xml:lang="en">
                 Read on <date when-custom="#Pent2Sun">the second Sunday after Pentecost</date>
-                and the <date when-custom="#Epiphany3">third of Kalends</date>.
+                and the <date when-custom="#Theophany3">third of Kalends</date>.
               </reg>
             </choice>
           </head>
@@ -479,7 +479,7 @@
                 <l>وفى عيد القير</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Nativity">the Nativity</date> and on <date when-custom="#Epiphany4">fourth of the Consecration of Water</date> 
+                Read on <date when-custom="#Nativity">the Nativity</date> and on <date when-custom="#Theophany4">fourth of the Consecration of Water</date> 
                 and on <date when-custom="#WaxTapers">the Feast of the Wax-Tapers</date>.
               </reg>
             </choice>
@@ -598,7 +598,7 @@
                 <l>قراه خامس قداس الما</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Epiphany5">the fifth of the Consecration of Water</date>.
+                Reading of <date when-custom="#Theophany5">the fifth of the Consecration of Water</date>.
               </reg>
             </choice>
           </head>
@@ -730,7 +730,7 @@
               </orig>
               <reg type="translation" xml:lang="en">
                 Reading of <date when-custom="#Pent14Sun">the fourteenth Sunday</date>
-                and the <date when-custom="#Epiphany6">sixth of the Consecration of Water</date>.
+                and the <date when-custom="#Theophany6">sixth of the Consecration of Water</date>.
               </reg>
             </choice>
           </head>
@@ -820,7 +820,7 @@
                 <l>قراه فى الحدود وفى اعياد الريسا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading on <date when-custom="#Sundays">the Sundays</date> and on the <date when-custom="#Hierarchs">Feasts of Hierarchs</date>.
+                Reading on <date when-custom="#Hierarchs">the Sundays and the Feasts of Hierarchs</date>.
               </reg>
             </choice>
           </head>
@@ -865,7 +865,7 @@
                 <l>سابع تقديس الما</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Pent17Sun">the seventeenth Sunday</date> and on the <date when-custom="#Epiphany7">seventh of the Consecration of Water</date>.
+                Reading of <date when-custom="#Pent17Sun">the seventeenth Sunday</date> and on the <date when-custom="#Theophany7">seventh of the Consecration of Water</date>.
               </reg>
             </choice>
           </head>
@@ -966,7 +966,7 @@
               <reg type="translation" xml:lang="en">
                 This is the second Epistle of Paul the Apostle to Timothy his disciple.
                 And it is the twelfth in order. 
-                Read on <date when-custom="Epiphany8">the eighth of the Consecration of Water</date>.
+                Read on <date when-custom="Theophany8">the eighth of the Consecration of Water</date>.
               </reg>
             </choice>
           </head>
@@ -1009,7 +1009,7 @@
                 <l>قراه لعيد قداس الما</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Epiphany">the Feast of the Consecration of Water</date>.
+                Reading of <date when-custom="#Theophany">the Feast of the Consecration of Water</date>.
               </reg>
             </choice>
           </head>
@@ -1022,7 +1022,7 @@
                 <l>قراه لثانى القلند</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Epiphany2">the second of Kalends</date>.
+                Reading of <date when-custom="#Theophany2">the second of Kalends</date>.
               </reg>
             </choice>
           </head>

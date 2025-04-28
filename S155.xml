@@ -262,8 +262,8 @@
                 <l>تقرا في يوم صوم القلند في القدس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#EpiphanyEve">day of the Fast of Kalends</date>
-                [and] <date when-custom="#Epiphany">in the <time when-custom="#DivineLiturgy">Divine Liturgy</time></date>.
+                Read on the <date when-custom="#TheophanyEve">day of the Fast of Kalends</date>
+                [and] <date when-custom="#Theophany">in the <time when-custom="#DivineLiturgy">Divine Liturgy</time></date>.
               </reg>
             </choice>
           </head>
@@ -523,7 +523,7 @@
                 <l>تقرا في يوم خامس القلند</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Epiphany5">the fifth day of Kalends</date>.
+                Read on <date when-custom="#Theophany5">the fifth day of Kalends</date>.
               </reg>
             </choice>
           </head>
@@ -780,7 +780,7 @@
                 <l>للعازر ايضا وللابرار</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Lazarus">Lazarus?</date> and also for <date when-custom="#Righteous">the Righteous</date>.
+                Read on <date when-custom="#Lazarus">Lazarus</date> and also for <date when-custom="#Venerables">the Righteous [i.e the Venerable Saints]</date>.
               </reg>
             </choice>
           </head>
