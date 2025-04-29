@@ -1,0 +1,8 @@
+<listPlace>
+  <place xml:id="Jerusalem">
+    <placeName>Jerusalem</placeName>
+    <location>
+      <geo decls="wgs84">31.778333 35.229722</geo>
+    </location>  
+  </place>
+</listPlace>
