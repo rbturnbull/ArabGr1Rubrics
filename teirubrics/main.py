@@ -50,12 +50,14 @@ def by_date(
     sigla = [get_siglum(tei) for tei in tei_list]
 
     tei = tei_list[0]
-    calendar = tei.find('.//taxonomy[@xml:id="calendar"]', namespaces={'xml': 'http://www.w3.org/XML/1998/namespace'})
-    date_definitions = find_elements(calendar, ".//category")
+    standoff = find_element(tei, ".//standOff")
+    list_event = find_element(standoff, './/listEvent')
+    breakpoint()
+    date_definitions = find_elements(list_event, ".//event")
     date_dict = dict()
     for date_element in date_definitions:
         date_id = date_element.attrib['{http://www.w3.org/XML/1998/namespace}id']
-        cat_description = find_element(date_element, ".//catDesc")
+        cat_description = find_element(date_element, ".//label")
         date_name = extract_text(cat_description) or date_id
         date_dict[date_id] = date_name
 

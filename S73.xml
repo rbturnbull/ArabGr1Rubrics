@@ -45,6 +45,7 @@
     </fileDesc>
     <xi:include href="include/encoding.xml"/>
   </teiHeader>
+  <xi:include href="include/standoff.xml"/>
   <text>
     <body>
       <div type="rubric">

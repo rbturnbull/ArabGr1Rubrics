@@ -23,6 +23,5 @@
         <catDesc>Used in @type on &lt;reg&gt; to indicate that it contains a translation of the original text.</catDesc>
       </category>
     </taxonomy>
-    <xi:include href="dates.xml"/>
   </classDecl>
 </encodingDesc>
