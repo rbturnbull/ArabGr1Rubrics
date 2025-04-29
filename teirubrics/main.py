@@ -44,6 +44,7 @@ def plot_verses(
 @app.command()
 def by_date(
     paths:list[Path], 
+    place:str=typer.Option("", help="Place to filter by"),
 ):
     tei_list = [read_tei(path) for path in paths]
     data = defaultdict(lambda: defaultdict(list))
@@ -52,7 +53,6 @@ def by_date(
     tei = tei_list[0]
     standoff = find_element(tei, ".//standOff")
     list_event = find_element(standoff, './/listEvent')
-    breakpoint()
     date_definitions = find_elements(list_event, ".//event")
     date_dict = dict()
     for date_element in date_definitions:
@@ -65,6 +65,11 @@ def by_date(
         siglum = get_siglum(tei)
         rubrics = find_elements(tei, ".//div[@type='rubric']")
         for rubric in rubrics:
+            # Filter for rubrics with a particular place if specified
+            if place:
+                if find_element(rubric, f".//placeName[@ref='{place}']") is None:
+                    continue
+
             date_elements = find_elements(rubric, ".//date")
             for date_element in date_elements:
                 date_id = date_element.attrib['when-custom']
@@ -95,6 +100,7 @@ def by_date(
 def by_verse(
     paths:list[Path], 
     verse_list:Path=typer.Option(...),
+    place:str=typer.Option("", help="Place to filter by"),
 ):
     verse_list = Path(verse_list).read_text().strip().splitlines()
     data = defaultdict(dict)
@@ -105,6 +111,11 @@ def by_verse(
         siglum = get_siglum(tei)
         rubrics = find_elements(tei, ".//div[@type='rubric']")
         for rubric in rubrics:
+            # Filter for rubrics with a particular place if specified
+            if place:
+                if find_element(rubric, f".//placeName[@ref='{place}']") is None:
+                    continue
+
             verse = rubric.attrib.get("corresp", "")
             data[verse][siglum] = [rubric]
     
