@@ -50,5 +50,146 @@
   <event xml:id="Pent17Sun">
     <label>17th Sunday after Pentecost</label>
   </event>
-
+  <event xml:id="NativityVigil" when="--12-24">
+    <label>Nativity Vigil</label>
+  </event>
+  <event xml:id="Nativity" when="--12-25">
+    <label>Nativity</label>
+  </event>    
+  <event xml:id="Nativity2" when="--12-26">
+    <label>The 2nd day of Nativity</label>
+  </event>
+  <event xml:id="TheophanyVigil" when="--01-05">
+    <label>Vigil of Theophany</label>
+  </event>
+  <event xml:id="Theophany" when="--01-06">
+    <label>Theophany</label>
+  </event>
+  <event xml:id="Theophany2" when="--01-07">
+    <label>2nd day of Theophany</label>
+  </event>
+  <event xml:id="Theophany3" when="--01-08">
+    <label>3rd day of Theophany</label>
+  </event>  
+  <event xml:id="Theophany4" when="--01-09">
+    <label>4th day of Theophany</label>
+  </event>
+  <event xml:id="Theophany5" when="--01-10">
+    <label>5th day of Theophany</label>
+  </event>
+  <event xml:id="Theophany6" when="--01-11">
+    <label>6th day of Theophany</label>
+  </event>
+  <event xml:id="Theophany7" when="--01-12">
+    <label>7th day of Theophany</label>
+  </event>
+  <event xml:id="Theophany8" when="--01-13">
+    <label>8th day of Theophany</label>
+  </event>
+  <event xml:id="Meatfare">
+    <label>Meatfare Sunday</label>
+  </event>
+  <event xml:id="Cheesefare">
+    <label>Cheesefare Sunday</label>
+  </event>
+  <event xml:id="Lent1Sun">
+    <label>1st Sunday of Lent</label>
+  </event>
+  <event xml:id="Lent2Sun">
+    <label>2nd Sunday of Lent</label>
+  </event>
+  <event xml:id="Lent3Sun">
+    <label>3rd Sunday of Lent</label>
+  </event>
+  <event xml:id="Lent4Sun">
+    <label>4th Sunday of Lent</label>
+  </event>
+  <event xml:id="Lent5Sun">
+    <label>5th Sunday of Lent</label>
+  </event>
+  <event xml:id="Lent6Sun">
+    <label>6th Sunday of Lent</label>
+  </event>
+  <event xml:id="Lent7Friday">
+    <label>Hyperthesis</label>
+  </event>
+  <event xml:id="Lazarus">
+    <label>Lazarus Saturday</label>
+  </event>
+  <event xml:id="PalmSunday">
+    <label>Palm Sunday</label>
+  </event>
+  <event xml:id="GreatThursday">
+    <label>Great Thursday (Maundy Thursday)</label>
+  </event>  
+  <event xml:id="GreatFriday">
+    <label>Great Friday (Good Friday)</label>
+  </event>
+  <event xml:id="GreatSaturday">
+    <label>Great Saturday (Holy Saturday)</label>
+  </event>
+  <event xml:id="Pascha">
+    <label>Pascha (Easter) Sunday</label>
+  </event>  
+  <!-- Misc -->
+  <event xml:id="WaxTapers">
+    <label>Feast of Wax-Tapers (i.e. Candlemas)</label>
+  </event>  
+  <event xml:id="Ascension">
+    <label>Ascension</label>
+  </event>
+  <event xml:id="Encaenia">
+    <label>Encaenia</label>
+  </event>
+  <event xml:id="Cross">
+    <label>Feast of the Cross</label>
+  </event>    
+  <event xml:id="Apostles">
+    <label>Feasts of the Apostles</label>
+  </event>  
+  <event xml:id="Prophets">
+    <label>Feasts of the Prophets</label>
+  </event>  
+  <event xml:id="FortyMartyrs" when="--03-09">
+    <label>Forty Martyrs of Sebaste</label>
+  </event>
+  <event xml:id="Martyrs">
+    <label>Feasts of the Martyrs</label>
+  </event>
+  <event xml:id="MartyrsSaturday">
+    <label>Saturday for the Martyrs</label>
+  </event>
+  <event xml:id="Saturdays">
+    <label>Saturdays</label>
+  </event>
+  <event xml:id="Reposed">
+    <label>Reposed</label>
+  </event>    
+  <event xml:id="Morning">
+    <label>Morning</label>
+  </event>  
+  <event xml:id="DormitionMary" when="--08-15">
+    <label>The Dormition of Mary</label>
+  </event>
+  <event xml:id="JohnBaptist" when="--06-24">
+    <label>John the Baptist</label>
+  </event>
+  <event xml:id="StStephen" when="--12-27">
+    <label>St Stephen</label>
+  </event>
+  <event xml:id="StBasil" when="--01-01">
+    <label>St Basil</label>
+  </event>
+  <event xml:id="AllSaints">
+    <label>All Saints</label>
+  </event>
+  <event xml:id="Hierarchs">
+    <label>Hierarchs</label>
+  </event>
+  <event xml:id="Venerables">
+    <label>Venerable Saints</label>
+  </event>
+  <event xml:id="TeachingFathers">
+    <label>The Teaching Fathers</label>
+  </event>
 </listEvent>
