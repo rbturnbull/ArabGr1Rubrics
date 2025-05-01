@@ -6,4 +6,7 @@
       <precision match="city"/>
     </location>  
   </place>
+  <place xml:id="TheCross">
+    <placeName>The Cross</placeName>
+  </place>
 </listPlace>

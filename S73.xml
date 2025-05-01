@@ -14,7 +14,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <msDesc xml:id="BnF_ar_6725_V" n="BnF ar. 6725/V">
+        <msDesc xml:id="BnF_ar_6725_V" n="BnF6725/5">
           <msIdentifier>
             <settlement>Bibliothèque nationale de France</settlement>
             <idno>arabe 6725, Part V</idno>
@@ -38,7 +38,7 @@
             <idno>arabe 6725, Part III</idno>
           </msIdentifier>
           <msContents>
-            <summary>IITim3:9b–Philemon25</summary>
+            <summary>IITim3:9b–Phlm25</summary>
           </msContents>
         </msDesc>
       </sourceDesc>
@@ -71,12 +71,12 @@
                   <w>فى</w>
                   <w>الاحد</w>
                   <w>الاول</w>
-                  <add place="above" type="interlinear" rend="red" xml:lang="ar"><w>بعد</w></add>
+                  <add place="above" type="interlinear"><w>بعد</w></add>
                   <w>العنصره</w>
                 </l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Pent1Sun">the first Sunday [after] Pentecost</date>.
+                Read on <date when-custom="#Pent1Sun">the first Sunday after Pentecost</date>.
               </reg>
             </choice>
           </head>
@@ -266,7 +266,7 @@
                 <l>قراه على الصليب</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading on <date when-custom="#Cross">the Cross</date>.
+                Reading <place ref="#TheCross"><date when-custom="#GreatFriday">at the Cross</date></place>.
               </reg>
             </choice>
           </head>
@@ -344,7 +344,7 @@
                 <l>قراه على الموتا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading for <date when-custom="#Reposed">the Dead</date>.
+                Reading for <date when-custom="#Reposed">the dead</date>.
               </reg>
             </choice>
           </head>
@@ -357,7 +357,7 @@
                 <l>على الموتا ايضا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                For <date when-custom="#Reposed">the Dead</date> also.
+                For <date when-custom="#Reposed">the dead</date> also.
               </reg>
             </choice>
           </head>
@@ -370,7 +370,7 @@
                 <l>على الموتا ايضا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                For <date when-custom="#Reposed">the Dead</date> also.
+                For <date when-custom="#Reposed">the dead</date> also.
               </reg>
             </choice>
           </head>
@@ -425,7 +425,7 @@
                 <l>قراه الحروم الثاني</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Cheesefare">the Prohibitions the second</date>.
+                Reading of <date when-custom="#Lent1Sun">the Prohibitions the second</date>.
               </reg>
             </choice>
           </head>
@@ -504,10 +504,10 @@
           <head rend="red">
             <choice>
               <orig xml:lang="ar">
-                <l>قراه على السليب في يوم جمعه</l>
+                <l>قراه على الصليب في يوم جمعه</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#CrossFriday">the Cross, on Friday</date>.
+                Reading <place ref="#TheCross">at the Cross</place> <date when-custom="#GreatFriday">on Friday</date>.
               </reg>
             </choice>
           </head>
@@ -722,7 +722,7 @@
             </choice>
           </head>
         </div>
-        <div type="rubric" corresp="Col2:5">
+        <div type="rubric" corresp="Col2:8">
           <anchor source="#S73" n="61r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14n0p90%2Fcq79qx80/full/1500,/0/default.jpg"/>
           <head rend="red">
             <choice>
@@ -761,7 +761,7 @@
                 <l>قراه للموتا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading for <date when-custom="#Reposed">the Dead</date>.
+                Reading for <date when-custom="#Reposed">the dead</date>.
               </reg>
             </choice>
           </head>
@@ -795,7 +795,7 @@
               </orig>
               <reg type="translation" xml:lang="en">
                 This is the Epistle of Paul the Apostle to the Hebrews. And it is the tenth in order.
-                Reading on the night of the <date when-custom="#NativityEve">Fast of Nativity</date>.
+                Reading on the night of the <date when-custom="#NativityVigil">Fast of Nativity</date>.
               </reg>
             </choice>
           </head>
@@ -831,7 +831,7 @@
           <head rend="red">
             <choice>
               <orig xml:lang="ar">
-                <l>قراه فى تديس الكنايس ولمرتمريم</l>
+                <l>قراه فى تقديس الكنايس ولمرتمريم</l>
               </orig>
               <reg type="translation" xml:lang="en">
                 Reading of <date when-custom="#Encaenia">the consecration of the churches</date> and for <date when-custom="#DormitionMary">St Mary</date>.

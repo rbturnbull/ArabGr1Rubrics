@@ -45,6 +45,7 @@ def plot_verses(
 def by_date(
     paths:list[Path], 
     place:str=typer.Option("", help="Place to filter by"),
+    display_facs:bool=typer.Option(True, help="Include facsimile links"),
 ):
     tei_list = [read_tei(path) for path in paths]
     data = defaultdict(lambda: defaultdict(list))
@@ -93,6 +94,7 @@ def by_date(
         key_name="Date",
         sigla=sigla,
         output_path=Path("dates.html"),
+        display_facs=display_facs,
     )    
 
 

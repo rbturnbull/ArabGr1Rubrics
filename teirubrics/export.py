@@ -1,10 +1,30 @@
 from pathlib import Path
+import re
 from jinja2 import Environment, FileSystemLoader
 
 from .tei import find_element, extract_text
 
 
-def export_data(data, key_name, sigla, output_path:Path, display_verse=True, display_folio=True):
+def convert_roman_prefix(s):
+    match = re.match(r"^(I+)([A-Z][a-z]+.*)", s)
+    if match:
+        roman, rest = match.groups()
+        return str(len(roman)) + rest
+    return s
+
+
+def add_space_after_book(s):
+    return re.sub(r"^([1-3]?[A-Za-z]+)(\d+:\d+b?)$", r"\1 \2", s)
+
+
+def export_data(
+    data, 
+    key_name, 
+    sigla, output_path:Path, 
+    display_verse:bool=True, 
+    display_folio:bool=True,
+    display_facs:bool=True,
+):
     templates = Path(__file__).parent / "templates"
     env = Environment(loader=FileSystemLoader(templates))
     rubric_template = env.get_template('rubric.html')
@@ -23,6 +43,7 @@ def export_data(data, key_name, sigla, output_path:Path, display_verse=True, dis
                     original_text = extract_text(orig)
                     translation_element = find_element(head, ".//reg[@type='translation']")
                     translation = extract_text(translation_element) if translation_element is not None else ""
+                    translation = translation.replace(" .", ".")
 
                     anchor = find_element(element, ".//anchor")
                     facs = anchor.attrib.get("facs", "") if anchor is not None else ""
@@ -31,11 +52,16 @@ def export_data(data, key_name, sigla, output_path:Path, display_verse=True, dis
                         source = source[1:]
                     folio = anchor.attrib.get("n", "") if anchor is not None else ""
 
+                    verse = element.attrib.get("corresp", "")
+                    # change roman numerals to arabic at the start
+                    verse = convert_roman_prefix(verse)
+                    verse = add_space_after_book(verse)
+
                     item = rubric_template.render(
                         original_text=original_text,
                         translation=translation,
-                        verse = element.attrib.get("corresp", "") if display_verse else "",
-                        facs=facs if display_folio else "",
+                        verse = verse if display_verse else "",
+                        facs=facs if display_folio and display_facs else "",
                         source=source if display_folio else "",
                         folio=folio if display_folio else "",
                     )

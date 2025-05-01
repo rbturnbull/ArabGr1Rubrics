@@ -101,7 +101,7 @@
                 <l>تقرا في الاحد الاول هذه اول القرايات</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Pent1Sun">the first Sunday</date>. This is the first reading.
+                Read on <date when-custom="#Pent1Sun">the first Sunday</date>. This is the first of the readings.
               </reg>
             </choice>
           </head>
@@ -263,8 +263,8 @@
                 <l>تقرا في يوم صوم القلند في القدس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <date when-custom="#TheophanyEve">day of the Fast of Kalends</date>
-                [and] <date when-custom="#Theophany">in the <time when-custom="#DivineLiturgy">Divine Liturgy</time></date>.
+                Read on the <date when-custom="#TheophanyVigil">day of the Fast of Kalends</date>
+                in <placeName ref="#Jerusalem">Jerusalem</placeName>.
               </reg>
             </choice>
           </head>
@@ -304,7 +304,7 @@
                 <l>تقرا في صباح حد الفصح فى القدس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <time when-custom="#Morning">morning</time> of <date when-custom="#Pascha">Sunday of Pascha</date> in the <time when-custom="#DivineLiturgy">Divine Liturgy</time>.
+                Read on the <time when-custom="#Morning">morning</time> of <date when-custom="#Pascha">Sunday of Pascha</date> in <placeName ref="#Jerusalem">Jerusalem</placeName>.
               </reg>
             </choice>
           </head>
@@ -652,7 +652,7 @@
                 <l>تقرا علي الموتا</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read over <date when-custom="#Reposed">the dead</date>.
+                Read for <date when-custom="#Reposed">the dead</date>.
               </reg>
             </choice>
           </head>
@@ -683,8 +683,8 @@
                 <l>في القدس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                The Epistle of St Paul to the Hebrews. Read on the <date when-custom="#NativityEve">Fast of the Nativity</date>
-                in the <time when-custom="#DivineLiturgy">Divine Liturgy</time>.
+                The Epistle of St Paul to the Hebrews. Read on the <date when-custom="#NativityVigil">Fast of the Nativity</date>
+                in <placeName ref="#Jerusalem">Jerusalem</placeName>.
               </reg>
             </choice>
           </head>
@@ -823,7 +823,7 @@
                 <l>الكنيس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Ascension">the Ascension of Christ</date>. And for the <date when-custom="#Encaenia">sanctification of the church</date>.
+                Read on <date when-custom="#Ascension">the Ascension of Christ</date>. And for the <date when-custom="#Encaenia">consecration of the Church</date>.
               </reg>
             </choice>
           </head>
