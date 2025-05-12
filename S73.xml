@@ -466,7 +466,7 @@
                 <l>يقرا ثاني الميلاد</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read <date when-custom="#Nativity2">the second of Nativity</date>.
+                Read on <date when-custom="#Nativity2">the second day of the Nativity</date>.
               </reg>
             </choice>
           </head>
@@ -795,7 +795,7 @@
               </orig>
               <reg type="translation" xml:lang="en">
                 This is the Epistle of Paul the Apostle to the Hebrews. And it is the tenth in order.
-                Reading on the night of the <date when-custom="#NativityVigil">Fast of Nativity</date>.
+                Reading on the night of the <date when-custom="#NativityVigil">Fast of the Nativity</date>.
               </reg>
             </choice>
           </head>
@@ -866,7 +866,7 @@
                 <l>سابع تقديس الما</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Pent17Sun">the seventeenth Sunday</date> and on the <date when-custom="#Theophany7">seventh of the Consecration of Water</date>.
+                Reading of <date when-custom="#Pent17Sun">the seventeenth</date> and on the <date when-custom="#Theophany7">seventh of the Consecration of Water</date>.
               </reg>
             </choice>
           </head>
