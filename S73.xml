@@ -591,6 +591,19 @@
             </choice>
           </ab>
         </div>
+        <div type="rubric" corresp="Eph3:14">
+          <anchor source="#S73" n="50v" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14n0p90%2F4b323v3g/full/1500,/0/default.jpg"/>
+          <head rend="red">
+            <choice>
+              <orig xml:lang="ar">
+                <l>قراه الاحد العاشر بعد العنصره</l>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                Reading of <date when-custom="#Pent10Sun">the tenth Sunday after Pentecost</date>.
+              </reg>
+            </choice>
+          </head>
+        </div>
         <div type="rubric" corresp="Eph4:1">
           <anchor source="#S73" n="51r" facs="https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14n0p90%2F8842dr5k/full/1500,/0/default.jpg"/>
           <head rend="red">
@@ -668,13 +681,13 @@
                   <w>قراه</w>
                   <w>الحد</w>
                   <w>اعشر</w>
-                  <w>حد</w>
                   <add place="above" type="interlinear" rend="red" xml:lang="ar"><w>بعد</w></add>
+                  <w>حد</w>
                   <w>العنصره</w>
                 </l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Pent10Sun">the tenth Sunday after Pentecost</date>.
+                Reading of <date when-custom="#Pent11Sun">the eleventh Sunday after Pentecost Sunday</date>.
               </reg>
             </choice>
           </head>
