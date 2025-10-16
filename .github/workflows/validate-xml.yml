@@ -8,6 +8,9 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+permissions:
+  contents: write   # needed to push the updated badge
+    
 jobs:
   validate:
     runs-on: ubuntu-latest
@@ -17,7 +20,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install xmllint and jing
-        run: sudo apt-get install -y libxml2-utils jing
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libxml2-utils jing
 
       - name: Run validation script
         run: ./tests/test_valid_xml.sh
