@@ -710,7 +710,14 @@
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
-                <l>تقرا لنياحه مرتمريم ولكل انقانيا</l>
+                <l>
+                  <w>تقرا</w>
+                  <w>لنياحه</w>
+                  <note>The letter ي in the middle of this word appears as a letter ل.</note>
+                  <w>مرتمريم</w>
+                  <w>ولكل</w>
+                  <w>انقانيا</w>
+                </l>
               </orig>
               <reg type="translation" xml:lang="en">
                 Read on <date when-custom="#DormitionMary">the Dormition of St Mary</date> and for every <date when-custom="#Encaenia">Encaenia</date>.
