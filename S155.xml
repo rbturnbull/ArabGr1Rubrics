@@ -84,11 +84,11 @@
             <choice>
               <orig xml:lang="ar">
                 <l>نبدا نكتب مصحف بولس الرسول الصحيفه الولا</l>
-                <l>كتبها الي اهل روميه باسم ربنا المسيح</l>
+                <l>كتبها الي اهل روميه نبدا باسم ربنا المسيح</l>
               </orig>
               <reg type="translation" xml:lang="en">
                 We begin to write the Book of Paul the Apostle, the first Epistle,
-                which he wrote to the people of Rome. In the name of our Lord Christ.
+                which he wrote to the people of Rome. We start in the name of our Lord Christ.
               </reg>
             </choice>
           </head>
@@ -383,7 +383,8 @@
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
-                <l>تقرا في حد الصوم الاول</l>
+                <l>تقرا في</l>
+                <l>حد الصوم الاول</l>
               </orig>
               <reg type="translation" xml:lang="en">
                 Read on the <date when-custom="#Lent1Sun">first Sunday of the Fast</date>.
@@ -694,7 +695,7 @@
           <head rend="red cross-decorated">
             <choice>
               <orig xml:lang="ar">
-                <l>تقرا في</l>
+                <l>ىقرا في</l>
                 <l>حد ثلثه عشر وتقرا في الجمعه الكبيره</l>
               </orig>
               <reg type="translation" xml:lang="en">
@@ -820,10 +821,10 @@
             <choice>
               <orig xml:lang="ar">
                 <l>تقرا فى صعود المسيح ✢ ولتقديس</l>
-                <l>الكنيس</l>
+                <l>الكنيسه</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on <date when-custom="#Ascension">the Ascension of Christ</date>. And for the <date when-custom="#Encaenia">consecration of the Church</date>.
+                Read on <date when-custom="#Ascension">the Ascension of Christ</date>. And for the <date when-custom="#Encaenia">consecration of the church</date>.
               </reg>
             </choice>
           </head>
