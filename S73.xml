@@ -7,11 +7,12 @@
         <title n="S73">Lectionary Rubrics in Sinai ar. 73 and Paris, BnF ar. 6725, Parts III and V</title>
       </titleStmt>
       <publicationStmt>
-        <publisher>Robert Turnbull</publisher>
+        <publisher xml:id="RT">Robert Turnbull</publisher>
         <date>2025</date>
         <availability>
           <p>This is an open access work licensed under a Creative Commons Attribution 4.0 International license.</p>
         </availability>
+        <authority xml:id="DM">Assisted by Duane McCrory</authority>
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:id="BnF_ar_6725_V" n="BnF6725/5">
@@ -58,7 +59,22 @@
         <div type="rubric" corresp="Ro1:1">
           <anchor source="#BnF_ar_6725_V" n="21r" facs="https://gallica.bnf.fr/ark:/12148/btv1b8406179n/f52.highres"/>
           <head rend="red headpiece">
-            <gap reason="smudged" extent="4" unit="line"/>
+            <choice>
+              <orig xml:lang="ar">
+                <gap reason="smudged" extent="3" unit="line"/>
+                <lb>                  
+                  <unclear reason="smudged" cert="high" resp="#DM">قراه</unclear>
+                  <unclear reason="smudged" cert="high" resp="#DM">الاحد</unclear>
+                  <unclear reason="smudged" cert="low" resp="#RT">الذى</unclear>
+                  <unclear reason="smudged" cert="moderate" resp="#DM">قبل</unclear>
+                  <unclear reason="smudged" cert="moderate" resp="#DM">الميلاد</unclear>
+                </lb>
+              </orig>
+              <reg type="translation" xml:lang="en">
+                <gap reason="smudged" extent="3" unit="line"/>
+                Reading of <date when-custom="#SundayBeforeNativity">the Sunday which is before the Nativity</date>.
+              </reg>
+            </choice>
           </head>
         </div>
         <div type="rubric" corresp="Ro5:1">
