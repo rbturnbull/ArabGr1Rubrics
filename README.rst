@@ -24,6 +24,6 @@ Credit
 
 See the forthcoming chapter for more details:
 
-Turnbull, Robert. “The Arabic Tradition: Hagiopolite Rubrics in an Arabic Version of Paul.” Edited by Jost Gippert, Mariam Kamarauli, and Eka Kvirkvelia. _The Ecumene of the Jerusalem Rite: Lectionary Traditions of the First Millennium._ Eastern Christian Cultures in Contact. Turnhout: Brepols, 2026.
+Turnbull, Robert. “The Arabic Tradition: Hagiopolite Rubrics in an Arabic Version of Paul.” Edited by Jost Gippert, Mariam Kamarauli, and Eka Kvirkvelia. The Ecumene of the Jerusalem Rite: Lectionary Traditions of the First Millennium. Eastern Christian Cultures in Contact. Turnhout: Brepols, 2026.
 
 Robert Turnbull https://robturnbull.com
