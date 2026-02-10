@@ -2,6 +2,9 @@
 ArabGr1 Rubrics
 ========================
 
+.. image:: tests/xml_validation_badge.svg
+   :alt: XML validation badge
+
 See the TEI XML files for the raw data and view the HTML reports in the reports directory to see the collation of the rubrics.
 
 Report Generation
