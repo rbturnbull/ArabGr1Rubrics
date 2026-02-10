@@ -22,6 +22,8 @@ Then run the following commands to generate the reports:
 Credit
 ============
 
-See the forthcoming chapter 'Hagiopolite Rubrics in an Arabic Version of Paul' for more details.
+See the forthcoming chapter for more details:
+
+Turnbull, Robert. “The Arabic Tradition: Hagiopolite Rubrics in an Arabic Version of Paul.” Edited by Jost Gippert, Mariam Kamarauli, and Eka Kvirkvelia. The Ecumene of the Jerusalem Rite: Lectionary Traditions of the First Millennium. Eastern Christian Cultures in Contact. Turnhout: Brepols, 2026.
 
 Robert Turnbull https://robturnbull.com
