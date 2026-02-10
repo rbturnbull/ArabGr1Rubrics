@@ -50,9 +50,6 @@
   <event xml:id="Pent17Sun">
     <label>17th Sunday after Pentecost</label>
   </event>
-  <event xml:id="2ndSundayBeforeNativity">
-    <label>2nd Sunday Before Nativity</label>
-  </event>
   <event xml:id="SundayBeforeNativity">
     <label>Sunday Before Nativity</label>
   </event>

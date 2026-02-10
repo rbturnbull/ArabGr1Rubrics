@@ -62,13 +62,13 @@
             <choice>
               <orig xml:lang="ar">
                 <gap reason="smudged" extent="3" unit="line"/>
-                <lb>                  
-                  <unclear reason="smudged" cert="high" resp="#DM">قراه</unclear>
-                  <unclear reason="smudged" cert="high" resp="#DM">الاحد</unclear>
-                  <unclear reason="smudged" cert="low" resp="#RT">الذى</unclear>
-                  <unclear reason="smudged" cert="moderate" resp="#DM">قبل</unclear>
-                  <unclear reason="smudged" cert="moderate" resp="#DM">الميلاد</unclear>
-                </lb>
+                <l>                  
+                  <w cert="high"><unclear reason="smudged" resp="#DM">قراه</unclear></w>
+                  <w cert="high"><unclear reason="smudged" resp="#DM">الاحد</unclear></w>
+                  <w cert="low"><unclear reason="smudged" resp="#RT">الذى</unclear></w>
+                  <w cert="medium"><unclear reason="smudged" resp="#DM">قبل</unclear></w>
+                  <w cert="medium"><unclear reason="smudged" resp="#DM">الميلاد</unclear></w>
+                </l>
               </orig>
               <reg type="translation" xml:lang="en">
                 <gap reason="smudged" extent="3" unit="line"/>
@@ -282,7 +282,7 @@
                 <l>قراه على الصليب</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading <place ref="#TheCross"><date when-custom="#GreatFriday">at the Cross</date></place>.
+                Reading <placeName ref="#TheCross"><date when-custom="#GreatFriday">at the Cross</date></placeName>.
               </reg>
             </choice>
           </head>
@@ -523,7 +523,7 @@
                 <l>قراه على الصليب في يوم جمعه</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading <place ref="#TheCross">at the Cross</place> <date when-custom="#GreatFriday">on Friday</date>.
+                Reading <placeName ref="#TheCross">at the Cross</placeName> <date when-custom="#GreatFriday">on Friday</date>.
               </reg>
             </choice>
           </head>
