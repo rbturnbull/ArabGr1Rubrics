@@ -225,7 +225,7 @@
                 <l>الخامس من الصوم</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Lent5Sun">the fifth Sunday of Lent</date>.
+                Reading of <date when-custom="#Lent5Sun">the fifth Sunday of the Fast</date>.
               </reg>
             </choice>
           </head>
@@ -238,7 +238,7 @@
                 <l>قراه فى الحروم الاول</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading on <date when-custom="#Meatfare">the first Prohibitions</date>.
+                Reading on <date when-custom="#Meatfare">the first ḥurūm/Prohibitions</date>.
               </reg>
             </choice>
           </head>
@@ -441,7 +441,7 @@
                 <l>قراه الحروم الثاني</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Reading of <date when-custom="#Lent1Sun">the second Prohibitions</date>.
+                Reading of <date when-custom="#Lent1Sun">the second ḥurūm/Prohibitions</date>.
               </reg>
             </choice>
           </head>
