@@ -264,7 +264,7 @@
               </orig>
               <reg type="translation" xml:lang="en">
                 Read on the <date when-custom="#TheophanyVigil">day of the Fast of Kalends</date>
-                in <placeName ref="#Jerusalem">Jerusalem</placeName>.
+                in the Eucharistic Liturgy.
               </reg>
             </choice>
           </head>
@@ -304,7 +304,7 @@
                 <l>تقرا في صباح حد الفصح فى القدس</l>
               </orig>
               <reg type="translation" xml:lang="en">
-                Read on the <time when-custom="#Morning">morning</time> of <date when-custom="#Pascha">Sunday of Pascha</date> in <placeName ref="#Jerusalem">Jerusalem</placeName>.
+                Read on the <time when-custom="#Morning">morning</time> of <date when-custom="#Pascha">Sunday of Pascha</date> in the Eucharistic Liturgy.
               </reg>
             </choice>
           </head>
@@ -685,7 +685,7 @@
               </orig>
               <reg type="translation" xml:lang="en">
                 The Epistle of St Paul to the Hebrews. Read on the <date when-custom="#NativityVigil">Fast of the Nativity</date>
-                in <placeName ref="#Jerusalem">Jerusalem</placeName>.
+                in the Eucharistic Liturgy.
               </reg>
             </choice>
           </head>
