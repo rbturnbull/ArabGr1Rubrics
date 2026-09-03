@@ -23,10 +23,27 @@ Then run the following commands to generate the reports:
     ./mk-reports.sh
 
 Credit
-============
+=========================
 
-See the forthcoming chapter for more details:
+For further background, see the forthcoming chapter:
 
-Turnbull, Robert. “The Arabic Tradition: Hagiopolite Rubrics in an Arabic Version of Paul.” Edited by Jost Gippert, Mariam Kamarauli, and Eka Kvirkvelia. The Ecumene of the Jerusalem Rite: Lectionary Traditions of the First Millennium. Eastern Christian Cultures in Contact. Turnhout: Brepols, 2026.
+Turnbull, Robert. “The Arabic Tradition: Hagiopolite Rubrics in an Arabic Version of Paul.” 
+In *The Ecumene of the Jerusalem Rite: Lectionary Traditions of the First Millennium*,  
+edited by Jost Gippert, Mariam Kamarauli, and Eka Kvirkvelia.  
+`Eastern Christian Cultures in Contact <https://www.brepols.net/series/ECCIC>`_. Turnhout: Brepols, 2026.
 
-Robert Turnbull https://robturnbull.com
+.. code-block:: bibtex
+
+    @bookchapter{hagiopoliterubrics,
+        author = {Turnbull, Robert},
+        title = {{The Arabic Tradition: Hagiopolite Rubrics in an Arabic Version of Paul}},
+        year = {2026},
+        booktitle = {{The Ecumene of the Jerusalem Rite: Lectionary Traditions of the First Millennium}},
+        publisher = {Brepols},
+        address = {Turnhout},
+        series = {Eastern Christian Cultures in Contact},
+        editor = {Gippert, Jost and Kamarauli, Mariam and Kvirkvelia, Eka}
+    }
+
+
+Author: `Robert Turnbull <https://robturnbull.com>`_
